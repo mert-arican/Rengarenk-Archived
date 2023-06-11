@@ -7,6 +7,13 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		D05CF4242A363F1B00A5EBC4 /* 2048x2732bb.png in Resources */ = {isa = PBXBuildFile; fileRef = D05CF41D2A363F1900A5EBC4 /* 2048x2732bb.png */; };
+		D05CF4252A363F1B00A5EBC4 /* 2048x2732bb-2.png in Resources */ = {isa = PBXBuildFile; fileRef = D05CF41E2A363F1A00A5EBC4 /* 2048x2732bb-2.png */; };
+		D05CF4262A363F1B00A5EBC4 /* 2048x2732bb-4.png in Resources */ = {isa = PBXBuildFile; fileRef = D05CF41F2A363F1A00A5EBC4 /* 2048x2732bb-4.png */; };
+		D05CF4272A363F1B00A5EBC4 /* 2048x2732bb-5.png in Resources */ = {isa = PBXBuildFile; fileRef = D05CF4202A363F1A00A5EBC4 /* 2048x2732bb-5.png */; };
+		D05CF4282A363F1B00A5EBC4 /* 2048x2732bb-7.png in Resources */ = {isa = PBXBuildFile; fileRef = D05CF4212A363F1A00A5EBC4 /* 2048x2732bb-7.png */; };
+		D05CF4292A363F1B00A5EBC4 /* 2048x2732bb-6.png in Resources */ = {isa = PBXBuildFile; fileRef = D05CF4222A363F1B00A5EBC4 /* 2048x2732bb-6.png */; };
+		D05CF42A2A363F1B00A5EBC4 /* 2048x2732bb-3.png in Resources */ = {isa = PBXBuildFile; fileRef = D05CF4232A363F1B00A5EBC4 /* 2048x2732bb-3.png */; };
 		D0A3EC492673054000207E57 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = D0A3EC482673054000207E57 /* AppDelegate.swift */; };
 		D0A3EC4B2673054000207E57 /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = D0A3EC4A2673054000207E57 /* SceneDelegate.swift */; };
 		D0A3EC522673054600207E57 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = D0A3EC512673054600207E57 /* Assets.xcassets */; };
@@ -92,6 +99,13 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		D05CF41D2A363F1900A5EBC4 /* 2048x2732bb.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = 2048x2732bb.png; sourceTree = "<group>"; };
+		D05CF41E2A363F1A00A5EBC4 /* 2048x2732bb-2.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "2048x2732bb-2.png"; sourceTree = "<group>"; };
+		D05CF41F2A363F1A00A5EBC4 /* 2048x2732bb-4.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "2048x2732bb-4.png"; sourceTree = "<group>"; };
+		D05CF4202A363F1A00A5EBC4 /* 2048x2732bb-5.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "2048x2732bb-5.png"; sourceTree = "<group>"; };
+		D05CF4212A363F1A00A5EBC4 /* 2048x2732bb-7.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "2048x2732bb-7.png"; sourceTree = "<group>"; };
+		D05CF4222A363F1B00A5EBC4 /* 2048x2732bb-6.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "2048x2732bb-6.png"; sourceTree = "<group>"; };
+		D05CF4232A363F1B00A5EBC4 /* 2048x2732bb-3.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "2048x2732bb-3.png"; sourceTree = "<group>"; };
 		D0A3EC452673054000207E57 /* Rengarenk.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Rengarenk.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		D0A3EC482673054000207E57 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		D0A3EC4A2673054000207E57 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -191,6 +205,20 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
+		D05CF42B2A363F2700A5EBC4 /* Previews */ = {
+			isa = PBXGroup;
+			children = (
+				D05CF41E2A363F1A00A5EBC4 /* 2048x2732bb-2.png */,
+				D05CF4232A363F1B00A5EBC4 /* 2048x2732bb-3.png */,
+				D05CF41F2A363F1A00A5EBC4 /* 2048x2732bb-4.png */,
+				D05CF4202A363F1A00A5EBC4 /* 2048x2732bb-5.png */,
+				D05CF4222A363F1B00A5EBC4 /* 2048x2732bb-6.png */,
+				D05CF4212A363F1A00A5EBC4 /* 2048x2732bb-7.png */,
+				D05CF41D2A363F1900A5EBC4 /* 2048x2732bb.png */,
+			);
+			path = Previews;
+			sourceTree = "<group>";
+		};
 		D0A3EC3C2673054000207E57 = {
 			isa = PBXGroup;
 			children = (
@@ -218,6 +246,7 @@
 				D0A3ECAC267305EF00207E57 /* Resources */,
 				D0A3ECB2267305EF00207E57 /* Extensions */,
 				D0A3EC5F2673059900207E57 /* Supporting Files */,
+				D05CF42B2A363F2700A5EBC4 /* Previews */,
 				D0A3EC562673054600207E57 /* Info.plist */,
 			);
 			path = Rengarenk;
@@ -581,13 +610,20 @@
 			files = (
 				D0A3ECD8267305EF00207E57 /* Localizations.json in Resources */,
 				D0A3ED1C267305EF00207E57 /* Main.storyboard in Resources */,
+				D05CF4252A363F1B00A5EBC4 /* 2048x2732bb-2.png in Resources */,
+				D05CF4242A363F1B00A5EBC4 /* 2048x2732bb.png in Resources */,
 				D0A3ED04267305EF00207E57 /* trWords.json in Resources */,
+				D05CF4262A363F1B00A5EBC4 /* 2048x2732bb-4.png in Resources */,
 				D0A3EC552673054600207E57 /* LaunchScreen.storyboard in Resources */,
 				D0A3ED1B267305EF00207E57 /* Menu.storyboard in Resources */,
+				D05CF4272A363F1B00A5EBC4 /* 2048x2732bb-5.png in Resources */,
 				D0A3ECD7267305EF00207E57 /* Localizable.strings in Resources */,
+				D05CF4282A363F1B00A5EBC4 /* 2048x2732bb-7.png in Resources */,
 				D0A3ED03267305EF00207E57 /* enWords.json in Resources */,
+				D05CF42A2A363F1B00A5EBC4 /* 2048x2732bb-3.png in Resources */,
 				D0A3ED02267305EF00207E57 /* imtouched.wav in Resources */,
 				D0A3EC522673054600207E57 /* Assets.xcassets in Resources */,
+				D05CF4292A363F1B00A5EBC4 /* 2048x2732bb-6.png in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
