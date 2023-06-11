@@ -9,4 +9,4 @@ code or add new features to the app so I removed it from sale.
 Now I can publish the code publicly to show it as proof that I can
 create complex programs using UIKit.
 
-<img src="https://github.com/mert-arican/Rengarenk-Archived/blob/main/Rengarenk/Previews/2048x2732bb-3.png" width = "60%" height= "60%">
+<img src="https://github.com/mert-arican/Rengarenk-Archived/blob/main/Rengarenk/Previews/2048x2732bb-3.png" width = "20%" height= "20%">
