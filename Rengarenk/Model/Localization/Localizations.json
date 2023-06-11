@@ -1,0 +1,269 @@
+{
+    "localizations" :
+    {
+        "INFO" : {
+            "en" : "INFO",
+            "tr" : "BİLGİ"
+        },
+        "ROUTE" : {
+            "en" : "ROUTE",
+            "tr" : "ROTA"
+        },
+        "GRAND BAZAAR" : {
+            "en" : "GRAND BAZAAR",
+            "tr" : "KAPALI ÇARŞI"
+        },
+        "SETTINGS" : {
+            "en" : "SETTINGS",
+            "tr" : "AYARLAR"
+        },
+        "LANGUAGE" : {
+            "en" : "LANGUAGE",
+            "tr" : "DİL"
+        },
+        "LEVEL": {
+            "en" : "LEVEL",
+            "tr" : "BÖLÜM"
+        },
+        "CORRECT" : {
+            "en" : "CORRECT",
+            "tr" : "DOĞRU"
+        },
+        "SIMURGH INSTRUCTION" : {
+            "en" : "Choose a tile below to reveal a letter.",
+            "tr" : "Harf açmak için aşağıdan bir kare seçin."
+        },
+        "FORTUNE" : {
+            "en" : "FORTUNE",
+            "tr" : "ŞANS"
+        },
+        "SIMURGH" : {
+            "en" : "SIMURGH",
+            "tr" : "SİMURG"
+        },
+        "APOCALYPSE" : {
+            "en" : "APOCALYPSE",
+            "tr" : "APOKALİPS"
+        },
+        "FORTUNE DESCRIPTION" : {
+            "en" : "Reveals a random letter.",
+            "tr" : "Rastgele bir harf açar."
+        },
+        "SIMURGH DESCRIPTION" : {
+            "en" : "Reveals the letter you choose.",
+            "tr" : "Seçtiğiniz harfi açar."
+        },
+        "APOCALYPSE DESCRIPTION" : {
+            "en" : "Reveals all the letters.",
+            "tr" : "Sorunun cevabını verir."
+        },
+        "GRANDBAZAAR DESCRIPTION" : {
+            "en" : "Buy some more.",
+            "tr" : "Daha fazlasını satın alın."
+        },
+        "COMPLETED" : {
+            "en" : "COMPLETED",
+            "tr" : "TAMAMLANDI"
+        },
+        "REWARD" : {
+            "en" : "REWARD",
+            "tr" : "ÖDÜL"
+        },
+        "RESTORE PURCHASES" : {
+            "en" : "RESTORE PURCHASES",
+            "tr" : "SATIN ALINANLARI GERİ YÜKLE"
+        },
+        "RESTORED SUCCESSFULLY" : {
+            "en" : "RESTORED SUCCESSFULLY",
+            "tr" : "SATIN ALINANLAR GERİ YÜKLENDİ"
+        },
+        "SOUND" : {
+            "en" : "SOUND",
+            "tr" : "SES"
+        },
+        "FLYING MODE" : {
+            "en" : "FLYING MODE",
+            "tr" : "UÇUŞMA MODU"
+        },
+        "RESTORE" : {
+            "en" : "RESTORE",
+            "tr" : "GERİ YÜKLE"
+        },
+        "CHANGE" : {
+            "en" : "CHANGE",
+            "tr" : "DEĞİŞTİR"
+        },
+        "ON" : {
+            "en" : "ON",
+            "tr" : "AÇIK"
+        },
+        "OFF" : {
+            "en" : "OFF",
+            "tr" : "KAPALI"
+        },
+        "TURN ON" : {
+            "en" : "TURN ON",
+            "tr" : "AÇ"
+        },
+        "TURN OFF" : {
+            "en" : "TURN OFF",
+            "tr" : "KAPAT"
+        },
+        "COLORFUL BUNDLE": {
+            "en" : "COLORFUL BUNDLE",
+            "tr" : "RENGARENK PAKET"
+        },
+        "WONDERFUL BUNDLE": {
+            "en" : "WONDERFUL BUNDLE",
+            "tr" : "HARİKA PAKET"
+        },
+        "COLORFUL OCTUPLE": {
+            "en" : "8 COLORFUL EIGHT 8",
+            "tr" : "8 RENKLİ SEKİZ 8"
+        },
+        "COLORFUL OCTUPLE DESCRIPTION": {
+            "en" : "8x REWARD\nAT EVERY NEW ROUTE POINT",
+            "tr" : "HER YENİ ROTA NOKTASINDA 8x ÖDÜL"
+        },
+        "BUY" : {
+            "en" : "BUY",
+            "tr" : "SATIN AL"
+        },
+        "ERROR" : {
+            "en" : "ERROR",
+            "tr" : "HATA"
+        },
+        "ALL LEVELS COMPLETED TITLE" : {
+            "en" : "ALL LEVELS ARE COMPLETED",
+            "tr" : "TÜM BÖLÜMLER TAMAMLANDI"
+        },
+        "ALL LEVELS COMPLETED MESSAGE" : {
+            "en" : "New words will be here soon.",
+            "tr" : "Yakında yeni kelimeler eklenecek."
+        },
+        "OKAY" : {
+            "en" : "Return",
+            "tr" : "Tamam"
+        },
+        "IMG0" : {
+            "en" : "VIEW FROM SÜLEYMANİYE",
+            "tr" : "SÜLEYMANİYE MANZARASI"
+        },
+        "IMG1" : {
+            "en" : "KENNEDY STREET",
+            "tr" : "CANKURTARAN SAHİL YOLU"
+        },
+        "IMG2" : {
+            "en" : "REMAINS OF THE BOUKOLEON PALACE",
+            "tr" : "BUKOLEON SARAYI KALINTILARI"
+        },
+        "IMG3" : {
+            "en" : "BIRD HOUSE",
+            "tr" : "KUŞ EVİ"
+        },
+        "IMG4" : {
+            "en" : "VIEW OF HALİÇ (GOLDEN HORN)",
+            "tr" : "HALİÇ MANZARASI"
+        },
+        "IMG5" : {
+            "en" : "PERTEVNİYAL VALİDE SULTAN MOSQUE",
+            "tr" : "PERTEVNİYAL VALİDE SULTAN CAMİİ"
+        },
+        "IMG6" : {
+            "en" : "PERTEVNİYAL VALİDE SULTAN MOSQUE (INTERIOR)",
+            "tr" : "PERTEVNİYAL VALİDE SULTAN CAMİİ (İÇ DETAY)"
+        },
+        "IMG7" : {
+            "en" : "FENARİ İSA MOSQUE (LIPS MONASTERY) EAGLE DETAIL",
+            "tr" : "FENARİ İSA CAMİİ (LİPS MANASTIRI) KARTAL DETAYI"
+        },
+        "IMG8" : {
+            "en" : "SULTANAHMET SQUARE FROM İBRAHİM PASHA PALACE",
+            "tr" : "İBRAHİM PAŞA SARAYI'NDAN SULTANAHMET MEYDANI"
+        },
+        "IMG9" : {
+            "en" : "BOSPHORUS FROM TOPKAPI PALACE",
+            "tr" : "TOPKAPI SARAYI'NDAN BOĞAZ"
+        },
+        "IMG10" : {
+            "en" : "HAGIA SOPHIA",
+            "tr" : "AYASOFYA"
+        },
+        "IMG11" : {
+            "en" : "LOOK FROM HAGIA SOPHIA",
+            "tr" : "AYASOFYA'DAN BAKIŞ"
+        },
+        "IMG12" : {
+            "en" : "HAGIA SOPHIA",
+            "tr" : "AYASOFYA"
+        },
+        "IMG13" : {
+            "en" : "GÜLHANE PARK",
+            "tr" : "GÜLHANE PARKI"
+        },
+        "IMG14" : {
+            "en" : "REMAINS OF ORPHANAGE OF SAINT PAUL",
+            "tr" : "AZİZ PAVLUS YETİMHANESİ KALINTILARI"
+        },
+        "IMG15" : {
+            "en" : "GALATA TOWER",
+            "tr" : "GALATA KULESİ"
+        },
+        "IMG16" : {
+            "en" : "OBELISK OF THEODOSIUS",
+            "tr" : "DİKİLİTAŞ"
+        },
+        "IMG17" : {
+            "en" : "OBELISK OF THEODOSIUS (DETAIL)",
+            "tr" : "DİKİLİTAŞ (DETAY)"
+        },
+        "IMG18" : {
+            "en" : "OBELISK OF THEODOSIUS (DETAIL)",
+            "tr" : "DİKİLİTAŞ (DETAY)"
+        },
+        "IMG19" : {
+            "en" : "SARAYBURNU",
+            "tr" : "SARAYBURNU"
+        },
+        "IMG20" : {
+            "en" : "HALİÇ (GOLDEN HORN)",
+            "tr" : "HALİÇ"
+        },
+        "IMG21" : {
+            "en" : "FATİH MOSQUE",
+            "tr" : "FATİH CAMİİ"
+        },
+        "IMG22" : {
+            "en" : "STREETS OF PHANAR",
+            "tr" : "FENER SOKAKLARI"
+        },
+        "IMG23" : {
+            "en" : "PHANAR GREEK ORTHODOX COLLEGE",
+            "tr" : "FENER RUM LİSESİ"
+        },
+        "IMG24" : {
+            "en" : "İSTANBUL",
+            "tr" : "İSTANBUL"
+        },
+        "INFO1" : {
+            "en" : "Purpose of Rengarenk is finding the words related to given keywords or description.\nEach answer is consisted of letters with different colors.",
+            "tr" : "Rengarenk'in amacı, verilen anahtar kelime veya açıklama ile ilgili kelimeleri bulmaktır.\nHer bir cevap farklı renkteki harflerden oluşur."
+        },
+        "INFO2" : {
+            "en" : "Tiles below forms the answer area. Answer area, reveals the structure of the answer (e.g. 2 words 5 letters), and color of the letters you should use (e.g. orange).",
+            "tr" : "Aşağıdaki kutucuklar cevap alanını oluşturur. Cevap alanı, doğru cevabın yapısını (örneğin 2 kelime 5 harf), ve hangi renkteki harflerden oluşturulması gerektiğini (örneğin turuncu) belirtir."
+        },
+        "INFO3" : {
+            "en" : "To give your answer, you can either tap on the letters or swipe your finger on top of them.",
+            "tr" : "Cevabınızı oluşturmak için harflerin üzerine dokunun veya parmağınızı harflerin üzerinde kaydırın."
+        },
+        "INFO4" : {
+            "en" : "To cancel your selection, swipe your finger to the bottom until background turns red, then remove your finger.",
+            "tr" : "Yaptığınız seçimi iptal etmek için kırmızı arka plan görene kadar parmağınızı aşağıya kaydırın ve bırakın."
+        },
+        "INFO5" : {
+            "en" : "If you see something wrong in your answer area, you can send the wrong letters back either by tapping or swiping on top of them. Have fun!",
+            "tr" : "Eğer cevap alanında bir yanlışlık görürseniz, cevap alanının üzerinde parmağınızı kaydırarak veya yanlış olduğunu düşündüğünüz harflerin üzerine dokunarak bu harfleri geri gönderebilirsiniz. İyi eğlenceler!"
+        }
+    }
+}

@@ -1,0 +1,1002 @@
+[
+    {
+        "question": "Duymak",
+        "answers": ["KULAK", "SES"]
+    },
+    {
+        "question": "Çapraz ...",
+        "answers": ["SORGU", "ATEŞ"]
+    },
+    {
+        "question": "... tutması",
+        "answers": ["KAN", "DENİZ"]
+    },
+    {
+        "question": "Adam kaçırma",
+        "answers": ["FİDYE", "REHİN"]
+    },
+    {
+        "question": "... çarpması",
+        "answers": ["ELEKTRİK", "GÜNEŞ"]
+    },
+    {
+        "question": "Duvak",
+        "answers": ["GELİN", "DÜĞÜN"]
+    },
+    {
+        "question": "Dikenli olur",
+        "answers": ["GÜL", "KİRPİ", "TEL", "YOL"]
+    },
+    {
+        "question": "Fabrika",
+        "answers": ["İŞÇİ", "ÜRETİM", "MAKİNE"]
+    },
+    {
+        "question": "Göçebe",
+        "answers": ["AT", "ÇADIR", "AVCI"]
+    },
+    {
+        "question": "Boş ...",
+        "answers": ["LAF", "İNANÇ", "KÜME"]
+    },
+    {
+        "question": "... anahtarı",
+        "answers": ["İNGİLİZ", "ALYAN", "DO"]
+    },
+    {
+        "question": "Araba yarışı",
+        "answers": ["PİST", "PİT", "TUR", "RALLİ"]
+    },
+    {
+        "question": "... aynası",
+        "answers": ["BOY", "DEV", "DİKİZ"]
+    },
+    {
+        "question": "... yürekli",
+        "answers": ["YUFKA", "KATI", "ASLAN"]
+    },
+    {
+        "question": "Ekmek",
+        "answers": ["BUĞDAY", "UN", "MAYA", "HAMUR", "FIRIN"]
+    },
+    {
+        "question": "Badem ...",
+        "answers": ["GÖZLÜ", "EZMESİ", "İÇİ"]
+    },
+    {
+        "question": "Dikiş",
+        "answers": ["İPLİK", "İĞNE", "TERZİ", "YAMA", "KUMAŞ"]
+    },
+    {
+        "question": "... bandı",
+        "answers": ["YARA", "KOŞU", "ÜRETİM"]
+    },
+    {
+        "question": "Kapıda kalmak",
+        "answers": ["ANAHTAR", "KİLİT", "MAYMUNCUK", "ÇİLİNGİR"]
+    },
+    {
+        "question": "... pilavı",
+        "answers": ["ACEM", "ÖZBEK"]
+    },
+    {
+        "question": "... ağrısı",
+        "answers": ["BAŞ", "BEL", "DİŞ", "İLK GÖZ"]
+    },
+    {
+        "question": "Kuş",
+        "answers": ["YUVA", "KANAT", "GAGA", "TÜY", "YUMURTA"]
+    },
+    {
+        "question": "Gece ...",
+        "answers": ["KULÜBÜ", "KUŞU", "YARISI", "UÇUŞU"]
+    },
+    {
+        "question": "... Adam",
+        "answers": ["TEK", "KÖTÜ", "BABA", "BALIK", "İSTENMEYEN"]
+    },
+    {
+        "question": "Ekşi",
+        "answers": ["ELMA", "MAYA", "LİMON", "SİRKE", "SURAT"]
+    },
+    {
+        "question": "El ...",
+        "answers": ["BEZİ", "FALI", "FRENİ", "FENERİ"]
+    },
+    {
+        "question": "\"G\" ile başlayan vücut bölümleri",
+        "answers": ["GÖZ", "GÖBEK", "GIRTLAK", "GERDAN", "GIDI"]
+    },
+    {
+        "question": "... arası",
+        "answers": ["APIŞ", "ÇATI", "DEVRE", "ÖĞLE", "SATIR", "TAVAN"]
+    },
+    {
+        "question": "... araç",
+        "answers": ["ZIRHLI", "AĞIR", "UZUN", "İNSANSIZ"]
+    },
+    {
+        "question": "Üniversite",
+        "answers": ["KAMPÜS", "DİPLOMA", "REKTÖR", "DEKAN", "MEZUN"]
+    },
+    {
+        "question": "İçecek",
+        "answers": ["ÇAY", "BOZA", "AYRAN", "ŞALGAM", "SALEP", "ŞIRA", "KAHVE"]
+    },
+    {
+        "question": "Yatak",
+        "answers": ["YORGAN", "ÇARŞAF", "NEVRESİM", "YASTIK", "UYKU", "BAZA"]
+    },
+    {
+        "question": "Hamur işi",
+        "answers": ["BÖREK", "POĞAÇA", "SİMİT", "BAZLAMA", "ÇÖREK", "GÖZLEME", "KEK", "KURABİYE"]
+    },
+    {
+        "question": "... babası",
+        "answers": ["PARA", "İSKELE", "FİKİR", "BEKTAŞİ"]
+    },
+    {
+        "question": "... açık",
+        "answers": ["BAHTI", "AĞZI", "ELİ", "GÖZÜ", "KAPISI", "ALNI"]
+    },
+    {
+        "question": "Avrupa ülkeleri",
+        "answers": ["DANİMARKA", "NORVEÇ", "İTALYA", "İSPANYA", "FRANSA", "ALMANYA", "HOLLANDA"]
+    },
+    {
+        "question": "... acısı",
+        "answers": ["CAN", "KALP", "KUYRUK", "YÜREK", "CİĞER"]
+    },
+    {
+        "question": "... baba",
+        "answers": ["DEVLET", "ŞAM", "ÜVEY", "NOEL", "CİCİ", "KAYIN"]
+    },
+    {
+        "question": "Ulaşım aracı",
+        "answers": ["METRO", "FERİBOT", "OTOBÜS", "VAPUR"]
+    },
+    {
+        "question": "Çoban",
+        "answers": ["KOYUN", "KEÇİ", "SÜRÜ", "KÖPEK", "KAVAL", "DEĞNEK", "KURT"]
+    },
+    {
+        "question": "Akıl ...",
+        "answers": ["KARI", "HASTASI", "DIŞI", "HOCASI"]
+    },
+    {
+        "question": "Anti...",
+        "answers": ["TEZ", "FRİZ", "JEN", "KOR", "DOT", "PATİ", "VİRAL"]
+    },
+    {
+        "question": "...!",
+        "answers": ["ÇÜŞ", "YUH", "OHA", "BRE", "HEY", "ULAN"]
+    },
+    {
+        "question": "El ...",
+        "answers": ["EMEĞİ", "YAZMASI", "ARABASI", "ÇANTASI"]
+    },
+    {
+        "question": "Para birimi",
+        "answers": ["LİRA", "YEN", "EURO", "DOLAR", "KRON", "DİNAR", "STERLİN"]
+    },
+    {
+        "question": "Çember",
+        "answers": ["ÇAP", "MERKEZ", "Pİ", "DAİRE"]
+    },
+    {
+        "question": "Ayak ...",
+        "answers": ["İŞİ", "İZİ", "UCU", "HAVLUSU", "BAĞI", "TAKIMI"]
+    },
+    {
+        "question": "Restoran",
+        "answers": ["YEMEK", "MENÜ", "GARSON", "PORSİYON", "HESAP"]
+    },
+    {
+        "question": "... adamı",
+        "answers": ["BİLİM", "DAVA", "DEVLET", "DİN", "İŞ", "HALK", "GÖREV", "FİKİR"]
+    },
+    {
+        "question": "Köle",
+        "answers": ["EFENDİ", "BUYRUK", "CARİYE", "ÖZGÜRLÜK"]
+    },
+    {
+        "question": "Kutsal şehirler",
+        "answers": ["İSTANBUL", "MEKKE", "MEDİNE", "VATİKAN", "KUDÜS"]
+    },
+    {
+        "question": "Mavi",
+        "answers": ["GÖKYÜZÜ", "DENİZ", "KOT", "BONCUK", "YAKA"]
+    },
+    {
+        "question": "Baş ...",
+        "answers": ["ROL", "UCU", "KAHRAMAN", "KONSOLOS", "PİSKOPOS"]
+    },
+    {
+        "question": "Geometri",
+        "answers": ["NOKTA", "DOĞRU", "DÜZLEM", "AÇI", "KENAR", "ŞEKİL", "ÇOKGEN", "ÇEMBER"]
+    },
+    {
+        "question": "Baharat",
+        "answers": ["TUZ", "PUL BİBER", "ZERDEÇAL", "NANE", "HARDAL", "KİMYON"]
+    },
+    {
+        "question": "...hane",
+        "answers": ["TIMAR", "RASAT", "DOĞUM", "YAĞ", "MEVLEVİ", "YETİM", "HAPİS", "KÜTÜP"]
+    },
+    {
+        "question": "Dil",
+        "answers": ["ÇİNCE", "ARAPÇA", "TÜRKÇE", "İTALYANCA", "ARAMİCE", "FELEMENKÇE"]
+    },
+    {
+        "question": "Kitap",
+        "answers": ["OKUR", "YAZAR", "SAYFA", "YAYINEVİ", "EDİTÖR", "CİLT", "BASKI"]
+    },
+    {
+        "question": "Bilim dalları",
+        "answers": ["MATEMATİK", "FİZİK", "KİMYA", "PSİKOLOJİ", "SOSYOLOJİ", "ANTROPOLOJİ", "GEOMETRİ"]
+    },
+    {
+        "question": "Erir",
+        "answers": ["KAR", "BUZUL", "DONDURMA", "ŞEKER", "TEREYAĞI", "ÇİKOLATA"]
+    },
+    {
+        "question": "\"Aydın\" anlamındaki sözcükler",
+        "answers": ["ENTELEKTÜEL", "MÜNEVVER"]
+    },
+    {
+        "question": "\"Farkındalığı yüksek kişi\" anlamındaki sözcükler",
+        "answers": ["UYANIK", "CİNGÖZ", "AÇIKGÖZ"]
+    },
+    {
+        "question": "İpek böceği",
+        "answers": ["DUT", "BURSA", "KOZA"]
+    },
+    {
+        "question": "El ...",
+        "answers": ["BİRLİĞİ", "ALIŞKANLIĞI", "ÇABUKLUĞU"]
+    },
+    {
+        "question": "Böcek türleri",
+        "answers": ["ARI", "ÇEKİRGE", "PİRE", "BİT", "KARINCA", "KELEBEK"]
+    },
+    {
+        "question": "Tatlı",
+        "answers": ["BAKLAVA", "PROFİTEROL", "TİRAMİSU", "PUDİNG", "TURTA"]
+    },
+    {
+        "question": "Ege",
+        "answers": ["EFE", "ZEYTİN YAĞI", "İZMİR", "ZEYBEK"]
+    },
+    {
+        "question": "... böceği",
+        "answers": ["KIZ", "ATEŞ", "UĞUR", "HAMAM", "CIRCIR", "AĞUSTOS"]
+    },
+    {
+        "question": "Gece ...",
+        "answers": ["HAYATI", "KIYAFETİ", "KÖRLÜĞÜ", "VARDİYASI"]
+    },
+    {
+        "question": "Ayaklı ...",
+        "answers": ["GAZETE", "KÜTÜPHANE", "ANSİKLOPEDİ"]
+    },
+    {
+        "question": "\"Asıl\" anlamındaki kelimeler",
+        "answers": ["ANA", "ESAS", "KAYNAK"]
+    },
+    {
+        "question": "Çırak",
+        "answers": ["USTA", "KALFA", "ZANAAT"]
+    },
+    {
+        "question": "Ebe",
+        "answers": ["DOĞUM", "BEBEK", "SAKLAMBAÇ"]
+    },
+    {
+        "question": "\"Havari\" manasındaki kelimeler",
+        "answers": ["YARDIMCI", "YOLDAŞ", "APOTR"]
+    },
+    {
+        "question": "Dalga",
+        "answers": ["OKYANUS", "SÖRF", "TSUNAMİ"]
+    },
+    {
+        "question": "Damar",
+        "answers": ["KAN", "DOLAŞIM", "KALP"]
+    },
+    {
+        "question": "Sütlü tatlı",
+        "answers": ["KADAYIF", "MUHALLEBİ", "GÜLLAÇ", "KAZANDİBİ", "KEŞKÜL", "SÜTLAÇ", "TAVUK GÖĞSÜ"]
+    },
+    {
+        "question": "Uyku",
+        "answers": ["YATAK", "RÜYA", "KABUS", "HORLAMAK", "ALARM"]
+    },
+    {
+        "question": "Kuş türleri",
+        "answers": ["KELAYNAK", "KUĞU", "ANGUT", "EBABİL", "PELİKAN", "İBİBİK", "PENGUEN"]
+    },
+    {
+        "question": "Tropikal meyve/bitki",
+        "answers": ["ANANAS", "MANGO", "MUZ", "HİNDİSTAN CEVİZİ", "AVOKADO", "ALOE VERA", "OKALİPTUS"]
+    },
+    {
+        "question": "Çoban ...",
+        "answers": ["KÖPEĞİ", "SALATASI", "YILDIZI"]
+    },
+    {
+        "question": "Bilgisayar",
+        "answers": ["YAZILIM", "DONANIM", "BİT", "ÇİP", "İŞLEMCİ", "GRAFİK"]
+    },
+    {
+        "question": "At ...",
+        "answers": ["MEYDANI", "HIRSIZI", "SİNEĞİ"]
+    },
+    {
+        "question": "Basın ...",
+        "answers": ["YASAĞI", "TOPLANTISI", "ÖZGÜRLÜĞÜ"]
+    },
+    {
+        "question": "Rengarenk",
+        "answers": ["BUKALEMUN", "AURORA", "GÖKKUŞAĞI"]
+    },
+    {
+        "question": "Bayrak ...",
+        "answers": ["DİREĞİ", "YARIŞI", "TÖRENİ"]
+    },
+    {
+        "question": "\"Eli sıkı\" manasındaki kelimeler",
+        "answers": ["CİMRİ", "PİNTİ", "VARYEMEZ"]
+    },
+    {
+        "question": "Alet",
+        "answers": ["ÇEKİÇ", "TORNAVİDA", "PENSE", "MENGENE", "TESTERE"]
+    },
+    {
+        "question": "Ayran ...",
+        "answers": ["AĞIZLI", "GÖNÜLLÜ", "BUDALASI"]
+    },
+    {
+        "question": "Altın ...",
+        "answers": ["VARAK", "GOL", "KAPLAMA", "YÜREKLİ", "SEMER", "KAFES"]
+    },
+    {
+        "question": "Yeşil renkli meyve/sebze",
+        "answers": ["ENGİNAR", "ROKA", "ÜZÜM", "PIRASA", "BAMYA", "ISPANAK", "KİVİ"]
+    },
+    {
+        "question": "Camide olur",
+        "answers": ["HAT", "MİNARE", "ŞADIRVAN", "MİNBER", "MİHRAP", "İMAM", "MÜEZZİN", "CEMAAT"]
+    },
+    {
+        "question": "Çiçek türleri",
+        "answers": ["GÜL", "LALE", "KARANFİL", "ZAMBAK", "NERGİS", "SÜMBÜL", "KASIMPATI"]
+    },
+    {
+        "question": "\"Sürekli\" manasındaki sözcükler",
+        "answers": ["DAİMA", "MÜTEMADİYEN", "ARALIKSIZ"]
+    },
+    {
+        "question": "... bayisi",
+        "answers": ["TEKEL", "GAZETE", "İDDİA"]
+    },
+    {
+        "question": "\"Deneyimsiz\" manasındaki kelimeler",
+        "answers": ["TOY", "ÇAYLAK", "ACEMİ"]
+    },
+    {
+        "question": "Ağaç türleri",
+        "answers": ["MEŞE", "LADİN", "CEVİZ", "PALMİYE", "IHLAMUR", "SELVİ"]
+    },
+    {
+        "question": "Düğün",
+        "answers": ["EVLİLİK", "SÜNNET", "TAKI"]
+    },
+    {
+        "question": "Yağı kullanılan bitkiler",
+        "answers": ["GÜL", "MISIR", "ZEYTİN", "AYÇİÇEĞİ", "SUSAM", "HAŞHAŞ", "PAMUK", "FINDIK"]
+    },
+    {
+        "question": "\"Karşıt, karşıt kişi\" manasındaki kelimeler",
+        "answers": ["AYKIRI", "TERS", "MUHALİF"]
+    },
+    {
+        "question": "Afrika'da bulunan hayvanlar",
+        "answers": ["ÇİTA", "FİL", "ZÜRAFA", "HİPOPOTAM", "ANTİLOP", "ASLAN", "ZEBRA", "ŞEMPANZE"]
+    },
+    {
+        "question": "Biber ...",
+        "answers": ["SALÇASI", "DOLMASI", "GAZI"]
+    },
+    {
+        "question": "Dış ...",
+        "answers": ["GÜÇLER", "İŞLERİ", "POLİTİKA", "MİHRAKLAR"]
+    },
+    {
+        "question": "At ...",
+        "answers": ["GÖZLÜĞÜ", "ARABASI", "KESTANESİ"]
+    },
+    {
+        "question": "Beste",
+        "answers": ["NOTA", "GÜFTE", "EZGİ", "BESTEKAR"]
+    },
+    {
+        "question": "Çini",
+        "answers": ["DESEN", "MAVİ", "İZNİK", "SIR"]
+    },
+    {
+        "question": "Turunçgiller",
+        "answers": ["LİMON", "PORTAKAL", "MANDALİNA", "GREYFURT", "TURUNÇ", "BERGAMOT"]
+    },
+    {
+        "question": "Çekirdeği olan şeyler",
+        "answers": ["YER", "HÜCRE", "ATOM", "İŞLEMCİ", "MEYVE"]
+    },
+    {
+        "question": "Coğrafi şekiller",
+        "answers": ["OVA", "PLATO", "VADİ", "TEPE", "BURUN", "BOĞAZ"]
+    },
+    {
+        "question": "Çalışan",
+        "answers": ["ÜCRET", "İŞ YERİ", "İŞVEREN", "SİGORTA"]
+    },
+    {
+        "question": "\"Saçma, gereksiz\" manasındaki kelimeler",
+        "answers": ["ABES", "ABSÜRT", "ABUK SUBUK", "ABİDİK GUBİDİK"]
+    },
+    {
+        "question": "Kaymak",
+        "answers": ["PATEN", "KAYKAY", "KAYAK", "KAYDIRAK"]
+    },
+    {
+        "question": "Genel ...",
+        "answers": ["SEKRETER", "BAŞKAN", "AF", "KURUL"]
+    },
+    {
+        "question": "Baba ...",
+        "answers": ["TARAFI", "YARISI", "YURDU", "YADİGARI"]
+    },
+    {
+        "question": "Eli ...",
+        "answers": ["AĞIR", "MAŞALI", "AÇIK", "MAHKUM"]
+    },
+    {
+        "question": "\"Soylu, seçkin kişi\" manasındaki kelimeler ...",
+        "answers": ["ARİSTOKRAT", "ASİL", "BURJUVA", "AYAN"]
+    },
+    {
+        "question": "Dişçi",
+        "answers": ["ÇÜRÜK", "APSE", "DOLGU", "DİŞ TELİ"]
+    },
+    {
+        "question": "Cübbe giyer",
+        "answers": ["AVUKAT", "HAKİM", "AKADEMİSYEN", "İMAM", "ÖĞRENCİ"]
+    },
+    {
+        "question": "Öğrenci yurdu",
+        "answers": ["ODA", "RANZA", "EVCİ", "GÖZETMEN"]
+    },
+    {
+        "question": "Dilek",
+        "answers": ["LAMBA", "CİN", "ÜÇ", "ALAADDİN"]
+    },
+    {
+        "question": "Beyaz ...",
+        "answers": ["BAYRAK", "PEYNİR", "PERDE", "YALAN"]
+    },
+    {
+        "question": "Bayılmak",
+        "answers": ["KAN ŞEKERİ", "TANSİYON", "LİMON", "TUZLU AYRAN"]
+    },
+    {
+        "question": "\"Eli açık\" manasındaki kelimeler",
+        "answers": ["CÖMERT", "BONKÖR", "ALİCENAP", "AHİ"]
+    },
+    {
+        "question": "Basın ...",
+        "answers": ["KARTI", "DÜNYASI", "BİLDİRİSİ", "DANIŞMANI"]
+    },
+    {
+        "question": "Can ...",
+        "answers": ["PAZARI", "SUYU", "SIKINTISI", "YOLDAŞI"]
+    },
+    {
+        "question": "Ramazan",
+        "answers": ["İMSAK", "İFTAR", "ORUÇ", "TERAVİH", "BAYRAM"]
+    },
+    {
+        "question": "Ağır ...",
+        "answers": ["İŞ", "ÇEKİM", "HASTA", "CEZA MAHKEMESİ"]
+    },
+    {
+        "question": "Hristiyanlık mezhepleri",
+        "answers": ["PROTESTAN", "KATOLİK", "ORTODOKS", "ANGLİKAN"]
+    },
+    {
+        "question": "Ağaç türleri",
+        "answers": ["ÇAM", "ÇINAR", "SÖĞÜT", "İĞDE", "ZEYTİN", "KESTANE"]
+    },
+    {
+        "question": "Güreş",
+        "answers": ["YAĞ", "PEHLİVAN", "KIRKPINAR", "EL ENSE", "KAFAKOL"]
+    },
+    {
+        "question": "Kırmızı meyve/sebze",
+        "answers": ["PANCAR", "VİŞNE", "ÇİLEK", "NAR", "KIZILCIK", "DOMATES"]
+    },
+    {
+        "question": "Denizde yaşar",
+        "answers": ["YOSUN", "SÜNGER", "DENİZ ATI", "AHTAPOT", "MİDYE", "YENGEÇ", "ISTAKOZ", "İSTİRİDYE"]
+    },
+    {
+        "question": "\"Mutlu\" manasındaki kelimeler",
+        "answers": ["NEŞELİ", "MESUT", "BAHTİYAR", "SEVİNÇLİ"]
+    },
+    {
+        "question": "Balık ...",
+        "answers": ["ADAM", "ÇORBASI", "PAZARI", "İSTİFİ"]
+    },
+    {
+        "question": "Değerli taş",
+        "answers": ["ZÜMRÜT", "YAKUT", "ELMAS", "SAFİR"]
+    },
+    {
+        "question": "... evi",
+        "answers": ["ÖĞRENCİ", "BEKAR", "ÖĞRETMEN", "DÜĞÜN"]
+    },
+    {
+        "question": "Belediye ...",
+        "answers": ["BAŞKANI", "ENCÜMENİ", "SARAYI", "MECLİSİ"]
+    },
+    {
+        "question": "\"Aşama\" anlamındaki kelimeler",
+        "answers": ["ETAP", "EVRE", "BASAMAK", "ADIM"]
+    },
+    {
+        "question": "Bayram ...",
+        "answers": ["HAVASI", "NAMAZI", "GÜNÜ", "ŞEKERİ"]
+    },
+    {
+        "question": "Mineral",
+        "answers": ["SODYUM", "POTASYUM", "KALSİYUM", "DEMİR", "İYOT", "MAGNEZYUM"]
+    },
+    {
+        "question": "İklim türleri",
+        "answers": ["ÇÖL", "KUTUP", "STEP", "KARASAL", "AKDENİZ", "TROPİKAL", "MUSON"]
+    },
+    {
+        "question": "Altın ...",
+        "answers": ["SUYU", "BOYNUZ", "ORAN", "ÇAĞ"]
+    },
+    {
+        "question": "Kuş türleri",
+        "answers": ["KEKLİK", "SERÇE", "SAKSAĞAN", "DOĞAN", "ŞAHİN", "KARTAL", "KANARYA"]
+    },
+    {
+        "question": "Buhar",
+        "answers": ["SU", "TREN", "BULUT", "SANAYİ"]
+    },
+    {
+        "question": "... alan",
+        "answers": ["KAMUSAL", "YEŞİL", "KIRSAL", "MANYETİK"]
+    },
+    {
+        "question": "Deseni olan hayvanlar",
+        "answers": ["ZEBRA", "ÇİTA", "TAVUS KUŞU", "YILAN", "ZÜRAFA", "İNEK"]
+    },
+    {
+        "question": "Eli ...",
+        "answers": ["SIKI", "YATKIN", "UZUN", "SOPALI"]
+    },
+    {
+        "question": "\"Sinirli\" anlamındaki kelimeler",
+        "answers": ["ÖFKELİ", "ASABİ", "KIZGIN", "CELALLİ"]
+    },
+    {
+        "question": "Beslenme ...",
+        "answers": ["BOZUKLUĞU", "UZMANI", "ÇANTASI", "SAATİ"]
+    },
+    {
+        "question": "\"Bedbaht\" anlamındaki kelimeler",
+        "answers": ["MUTSUZ", "BAHTSIZ", "TALİHSİZ", "BİBAHT"]
+    },
+    {
+        "question": "Dış ...",
+        "answers": ["DÜNYA", "TİCARET", "PAZAR", "BORÇ"]
+    },
+    {
+        "question": "Çeviri",
+        "answers": ["ALT YAZI", "DİL", "ÇEVİRMEN", "DUBLAJ"]
+    },
+    {
+        "question": "\"Atak\" manasındaki kelimeler",
+        "answers": ["SALDIRI", "HÜCUM", "AKIN", "ATILIM"]
+    },
+    {
+        "question": "Acemi ...",
+        "answers": ["OĞLANI", "BİRLİĞİ", "OCAĞI", "AĞASI"]
+    },
+    {
+        "question": "Canlı ...",
+        "answers": ["MÜZİK", "CENAZE", "YAYIN", "MODEL"]
+    },
+    {
+        "question": "Kırmızı meyve/sebze",
+        "answers": ["TURP", "KARPUZ", "AHUDUDU", "SOĞAN", "KİRAZ"]
+    },
+    {
+        "question": "Deney",
+        "answers": ["MİKROSKOP", "LABORATUVAR", "GÖZLEM", "HİPOTEZ", "KANIT"]
+    },
+    {
+        "question": "Spor dalları",
+        "answers": ["BOKS", "BEYZBOL", "BİSİKLET", "JİMNASTİK", "ESKRİM", "KÜREK", "TENİS", "YELKEN"]
+    },
+    {
+        "question": "\"Anlaşmazlık\" anlamındaki kelimeler",
+        "answers": ["ÇATIŞMA", "İHTİLAF", "AYRILIK", "SÜRTÜŞME", "İKİLİK"]
+    },
+    {
+        "question": "Ulaşım aracı",
+        "answers": ["TRAMVAY", "TELEFERİK", "UÇAK", "HELİKOPTER", "FÜNİKÜLER"]
+    },
+    {
+        "question": "Ana ...",
+        "answers": ["MUHALEFET", "DİL", "HABER", "KARA", "BİLİM DALI"]
+    },
+    {
+        "question": "Boks",
+        "answers": ["YUMRUK", "RİNG", "SİKLET", "APARKAT", "KROŞE"]
+    },
+    {
+        "question": "... bileti",
+        "answers": ["KONSER", "TİYATRO", "OTOBÜS", "SİNEMA", "UÇAK"]
+    },
+    {
+        "question": "Süt ürünleri",
+        "answers": ["PEYNİR", "YOĞURT", "KAYMAK", "KEFİR", "AYRAN", "TEREYAĞI"]
+    },
+    {
+        "question": "Ayakkabı türü",
+        "answers": ["ÇİZME", "BOT", "BABET", "TOPUKLU", "İSKARPİN"]
+    },
+    {
+        "question": "Futbol",
+        "answers": ["SANTRA", "TAÇ", "FRİKİK", "OFSAYT", "KORNER", "PENALTI"]
+    },
+    {
+        "question": "Borsa",
+        "answers": ["ALIŞ", "SATIŞ", "PİYASA", "PAY", "HİSSE", "SERMAYE"]
+    },
+    {
+        "question": "Kuş türleri",
+        "answers": ["SAKA", "KIRLANGIÇ", "AKBABA", "FLAMİNGO", "TAVUS KUŞU", "KARGA"]
+    },
+    {
+        "question": "Beyaz ...",
+        "answers": ["ET", "IRK", "EŞYA", "YAKA", "ŞARAP"]
+    },
+    {
+        "question": "İş yeri",
+        "answers": ["OFİS", "ŞANTİYE", "FABRİKA", "HAL", "TERSANE"]
+    },
+    {
+        "question": "... alayı",
+        "answers": ["TOPÇU", "DÜĞÜN", "FENER", "GELİN", "KILIÇ"]
+    },
+    {
+        "question": "Ağız ...",
+        "answers": ["DOLUSU", "DALAŞI", "KOKUSU", "BİRLİĞİ", "ALIŞKANLIĞI"]
+    },
+    {
+        "question": "Beyaz meyve/sebze",
+        "answers": ["MUZ", "KARNABAHAR", "SARIMSAK", "SOĞAN", "ZENCEFİL"]
+    },
+    {
+        "question": "Sınav",
+        "answers": ["SÜRE", "KOPYA", "GÖZETMEN", "ŞIK", "KLASİK"]
+    },
+    {
+        "question": "Anti ...",
+        "answers": ["BİYOTİK", "OKSİDAN", "SEMİTİZM", "DEMOKRATİK", "EMPERYALİST"]
+    },
+    {
+        "question": "Hamam",
+        "answers": ["TELLAK", "KESE", "TAKUNYA", "PEŞTAMAL", "TAS"]
+    },
+    {
+        "question": "Mutfak",
+        "answers": ["BUZDOLABI", "FIRIN", "SOFRA", "OCAK", "DAVLUMBAZ", "BULAŞIK", "DETERJAN"]
+    },
+    {
+        "question": "Yeşil renkli meyve/sebze",
+        "answers": ["BİBER", "MARUL", "LAHANA", "KABAK", "BROKOLİ", "ERİK", "SALATALIK"]
+    },
+    {
+        "question": "Basketbol",
+        "answers": ["HAVA ATIŞI", "STEPS", "RİBAUNT", "PANYA", "POTA", "SMAÇ", "ÜÇLÜK"]
+    },
+    {
+        "question": "Denizde yaşar",
+        "answers": ["BALİNA", "YUNUS", "VATOZ", "BALON", "KÖPEK BALIĞI", "KILIÇ", "KALKAN"]
+    },
+    {
+        "question": "Arama ...",
+        "answers": ["KARARI", "BÜLTENİ", "İZNİ", "EMRİ", "MOTORU"]
+    },
+    {
+        "question": "Afrika'da bulunan hayvanlar",
+        "answers": ["GERGEDAN", "LEOPAR", "BUFALO", "GORİL", "LEMUR", "DEVE KUŞU", "SIRTLAN"]
+    },
+    {
+        "question": "Baş ...",
+        "answers": ["YAPIT", "KÖŞE", "KENT", "ÖĞRETMEN", "KOMUTAN"]
+    },
+    {
+        "question": "Göz ...",
+        "answers": ["HAKKI", "HAPSİ", "KARARI", "KAPAĞI", "KAMAŞTIRICI"]
+    },
+    {
+        "question": "Kuş türleri",
+        "answers": ["PAPAĞAN", "AĞAÇKAKAN", "LEYLEK", "GÜVERCİN", "PELİKAN", "BAYKUŞ", "BÜLBÜL"]
+    },
+    {
+        "question": "Şerbetli tatlı",
+        "answers": ["KALBURABASTI", "ŞEKERPARE", "TULUMBA", "REVANİ", "ŞÖBİYET"]
+    },
+    {
+        "question": "Deprem",
+        "answers": ["FAY", "MERKEZ", "DERİNLİK", "ŞİDDET", "BÜYÜKLÜK"]
+    },
+    {
+        "question": "Eski ölçü birimi",
+        "answers": ["KARIŞ", "OKKA", "DİRHEM", "ENDAZE", "FERSAH"]
+    },
+    {
+        "question": "Noel baba",
+        "answers": ["REN GEYİĞİ", "NOEL", "HEDİYE", "ŞÖMİNE", "BACA", "SAKAL", "HO HO HO"]
+    },
+    {
+        "question": "Açık ...",
+        "answers": ["KAPI", "FİKİRLİ", "ÖĞRETİM", "MEKTUP", "OY"]
+    },
+    {
+        "question": "Ay ...",
+        "answers": ["BAŞI", "DÖNÜMÜ", "ÇEKİRDEĞİ", "ÇÖREĞİ", "PARÇASI"]
+    },
+    {
+        "question": "Emmek",
+        "answers": ["BEBEK", "EMZİK", "PARMAK", "BİBERON", "SÜT"]
+    },
+    {
+        "question": "Asma ...",
+        "answers": ["TAVAN", "YAPRAĞI", "KÖPRÜ", "KİLİT", "KAT"]
+    },
+    {
+        "question": "Pizza",
+        "answers": ["İTALYA", "DİLİM", "MARGARİTA", "DOMATES", "HAMUR", "MOZARELLA"]
+    },
+    {
+        "question": "Ses çıkartır",
+        "answers": ["ALKIŞ", "BAĞIRIŞ", "ÇIĞLIK", "HOPARLÖR", "ENSTRÜMAN", "KORNA", "DÜDÜK"]
+    },
+    {
+        "question": "Balık türleri",
+        "answers": ["HAMSİ", "ÇİPURA", "USKUMRU", "LEVREK", "TEKİR", "İSTAVRİT", "MEZGİT", "LÜFER"]
+    },
+    {
+        "question": "Sarı/turuncu renkli meyve sebzeler",
+        "answers": ["KAYISI", "LİMON", "BAL KABAĞI", "ŞEFTALİ", "MISIR", "PATATES", "HAVUÇ", "AYVA"]
+    },
+    {
+        "question": "Devlet ...",
+        "answers": ["NİŞANI", "KAPISI", "ADAMI", "BAŞKANI", "SIRRI"]
+    },
+    {
+        "question": "Spor dalları",
+        "answers": ["BASKETBOL", "FUTBOL", "VOLEYBOL", "BADMİNTON", "GOLF", "GÜREŞ", "HALTER", "HENTBOL"]
+    },
+    {
+        "question": "Güneş ...",
+        "answers": ["PİLİ", "SAATİ", "KREMİ", "ENERJİSİ", "ÇARPMASI"]
+    },
+    {
+        "question": "Çiçek türleri",
+        "answers": ["NİLÜFER", "MENEKŞE", "LEYLAK", "PAPATYA", "HANIMELİ", "NERGİS", "BEGONVİL"]
+    },
+    {
+        "question": "Ormanda yaşar",
+        "answers": ["MANTAR", "AYI", "DOMUZ", "TİLKİ", "ÇAKAL", "YILAN", "SİNCAP"]
+    },
+    {
+        "question": "\"Korkusuz genç, delikanlı\" anlamındaki sözcükler",
+        "answers": ["YİĞİT", "ALP", "BATUR", "ALPEREN", "BAHADIR"]
+    },
+    {
+        "question": "Değirmen",
+        "answers": ["SU", "YEL", "ÖĞÜTME", "BUĞDAY", "DON KİŞOT"]
+    },
+    {
+        "question": "Açık ...",
+        "answers": ["BÜFE", "ARTIRMA", "ARA", "HAVA", "SAYIM"]
+    },
+    {
+        "question": "Baklagiller",
+        "answers": ["MERCİMEK", "NOHUT", "FASULYE", "BAKLA", "BEZELYE", "BÖRÜLCE", "BARBUNYA"]
+    },
+    {
+        "question": "Dar ...",
+        "answers": ["BOĞAZ", "GELİR", "GÖRÜŞLÜ", "KAFALI", "PAÇA"]
+    },
+    {
+        "question": "Ana ...",
+        "answers": ["YÜREĞİ", "RAHMİ", "SINIFI", "VATAN", "KUZUSU"]
+    },
+    {
+        "question": "Yedi ...",
+        "answers": ["KAT GÖK", "UYURLAR", "DÜVEL", "KULE", "BÜYÜK GÜNAH"]
+    },
+    {
+        "question": "Mavi/mor meyve/sebze/bitki",
+        "answers": ["BÖĞÜRTLEN", "ERİK", "PATLICAN", "LAHANA", "YABAN MERSİNİ", "LAVANTA", "ERGUVAN"]
+    },
+    {
+        "question": "Harem",
+        "answers": ["KADIN", "HADIM AĞA", "CARİYE", "GÖZDE"]
+    },
+    {
+        "question": "Ağır ...",
+        "answers": ["SİKLET", "UYKU", "VASITA", "SÖZ", "SANAYİ"]
+    },
+    {
+        "question": "20.yy politikacı",
+        "answers": ["LENİN", "HİTLER", "STALİN", "MUSSOLİNİ", "GANDİ", "MANDELA", "ATATÜRK"]
+    },
+    {
+        "question": "Dergi türleri",
+        "answers": ["SİYASET", "TARİH", "MODA", "OTOMOBİL", "EDEBİYAT", "EKONOMİ"]
+    },
+    {
+        "question": "Aile ...",
+        "answers": ["DOSTU", "HEKİMİ", "FOTOĞRAFI", "REİSİ", "SAADETİ", "HAYATI"]
+    },
+    {
+        "question": "Hristiyanlık",
+        "answers": ["KİLİSE", "VAFTİZ", "İSA", "HAÇ", "TESLİS", "HAVARİ"]
+    },
+    {
+        "question": "Uçak",
+        "answers": ["PİLOT", "KANAT", "HOSTES", "KABİN", "RÖTAR", "KULE"]
+    },
+    {
+        "question": "Askeri ...",
+        "answers": ["GÜÇ", "ATAŞE", "RÜŞTİYE", "İDADİ", "HASTANE", "AMBARGO"]
+    },
+    {
+        "question": "Beyin ...",
+        "answers": ["CERRAHI", "FIRTINASI", "GÜCÜ", "TAKIMI", "GÖÇÜ", "JİMNASTİĞİ"]
+    },
+    {
+        "question": "Devlet",
+        "answers": ["GÜVENLİK", "LİYAKAT", "ADALET", "KANUN", "POLİTİKA", "VERGİ"]
+    },
+    {
+        "question": "Gemi",
+        "answers": ["KAPTAN", "YÖN", "MÜRETTEBAT", "GÜVERTE", "DÜMEN", "PUSULA"]
+    },
+    {
+        "question": "Baş ...",
+        "answers": ["DANIŞMAN", "BUĞ", "BAKAN", "ÇAVUŞ", "HEKİM", "ÖRTÜSÜ"]
+    },
+    {
+        "question": "Ara ...",
+        "answers": ["BULUCU", "SEÇİM", "KESİT", "SICAK", "ELEMAN", "SINAV"]
+    },
+    {
+        "question": "Kilise",
+        "answers": ["PAPA", "DOGMA", "ORTA ÇAĞ", "AFOROZ", "ENGİZİSYON", "RÖNESANS"]
+    },
+    {
+        "question": "Bal ...",
+        "answers": ["ARISI", "ÖZÜ", "DUDAK", "MUMU", "PETEĞİ", "KABAĞI"]
+    },
+    {
+        "question": "Askerlik",
+        "answers": ["KOĞUŞ", "KOMUTAN", "TEZKERE", "ALAY", "ÇARŞI İZNİ", "ŞAFAK"]
+    },
+    {
+        "question": "... arabası",
+        "answers": ["EL", "AT", "ÇÖP", "ÖKÜZ", "YARIŞ", "POLİS", "MAKAM"]
+    },
+    {
+        "question": "Roman",
+        "answers": ["KURGU", "ANLATICI", "KAHRAMAN", "TİP", "MEKAN", "KARAKTER", "ÜSLUP"]
+    },
+    {
+        "question": "Ekonomi",
+        "answers": ["KDV", "ÖTV", "FAİZ", "ENFLASYON", "KREDİ", "İŞSİZLİK", "BÜYÜME"]
+    },
+    {
+        "question": "Görsel sanat eserleri",
+        "answers": ["MOZAİK", "FRESK", "MİNYATÜR", "GRAVÜR", "PORTRE", "TUVAL", "YAĞLI BOYA"]
+    },
+    {
+        "question": "Padişah lakapları",
+        "answers": ["VELİ", "AVCI", "ADLİ", "BAĞDAT FATİHİ", "YAVUZ", "KANUNİ", "HÜDAVENDİGAR"]
+    },
+    {
+        "question": "Doğu'nun ünlü şehirleri",
+        "answers": ["BEYRUT", "BAĞDAT", "KAHİRE", "İSKENDERİYE", "MERV", "ISFAHAN", "KUDÜS"]
+    },
+    {
+        "question": "Din",
+        "answers": ["PAGANİZM", "ZERDÜŞTLÜK", "YAHUDİLİK", "HRİSTİYANLIK", "İSLAM", "BUDİZM", "HİNDUİZM"]
+    },
+    {
+        "question": "İstanbulda bir semt",
+        "answers": ["KARAKÖY", "EMİNÖNÜ", "FENER", "BALAT", "CİBALİ", "EDİRNEKAPI", "NİŞANTAŞI"]
+    },
+    {
+        "question": "Mısır",
+        "answers": ["FİRAVUN", "RA", "PİRAMİT", "SFENKS", "NİL", "MUMYA"]
+    },
+    {
+        "question": "Edebiyat",
+        "answers": ["ROMAN", "ŞİİR", "YAZAR", "KAFİYE", "VECİZ", "DENEME", "DESTAN"]
+    },
+    {
+        "question": "Padişah lakapları",
+        "answers": ["FATİH", "MUHTEŞEM", "ÇELEBİ", "DELİ", "GENÇ", "SARI", "YILDIRIM"]
+    },
+    {
+        "question": "Semavi dinlerde dini bayram / kutsal gün",
+        "answers": ["ŞABAT", "NOEL", "HANUKA", "KANDİL", "YORTU", "PASKALYA", "RAMAZAN"]
+    },
+    {
+        "question": "Antik uygarlık",
+        "answers": ["YUNAN", "HİNT", "PERS", "MISIR", "ÇİN", "MAYA", "ROMA", "AZTEK"]
+    },
+    {
+        "question": "Dava",
+        "answers": ["MAHKEME", "AVUKAT", "TANIK", "SANIK", "SAVCI", "HAKİM", "HÜKÜM", "CEZA"]
+    },
+    {
+        "question": "Uzay",
+        "answers": ["GEZEGEN", "YILDIZ", "SÜPERNOVA", "YÖRÜNGE", "GALAKSİ", "GÜNEŞ", "KARA DELİK", "ASTRONOT"]
+    },
+    {
+        "question": "Hükümdar",
+        "answers": ["ŞAH", "HAN", "ÇAR", "SULTAN", "KRAL", "KAYSER", "İMPARATOR", "HÜNKAR"]
+    },
+    {
+        "question": "Yazı",
+        "answers": ["ALFABE", "HİYEROGLİF", "HARF", "SEMBOL", "KAĞIT", "MÜREKKEP", "MATBAA"]
+    },
+    {
+        "question": "Mimari akım",
+        "answers": ["BAROK", "ROKOKO", "GOTİK", "RÖNESANS", "KLASİK"]
+    },
+    {
+        "question": "Mantık Bilimi",
+        "answers": ["VE", "VEYA", "İSE", "ÖNERME", "ÇELİŞKİ", "DOĞRU", "YANLIŞ"]
+    },
+    {
+        "question": "Hain!",
+        "answers": ["BRÜTÜS", "YAHUDA İSKARİOT"]
+    },
+    {
+        "question": "Destan örnekleri",
+        "answers": ["GILGAMIŞ", "İLYADA", "OĞUZ KAĞAN", "MAHABHARATA", "ŞAHNAME"]
+    },
+    {
+        "question": "Antik kütüphane",
+        "answers": ["RULO", "TABLET", "PARŞÖMEN", "EFES", "NİNOVA", "BERGAMA", "İSKENDERİYE"]
+    },
+    {
+        "question": "Kutsal ...",
+        "answers": ["RUH", "KASE", "KİTAP", "TOPRAKLAR", "İTTİFAK", "ÇAĞRI", "BİLGELİK"]
+    },
+    {
+        "question": "Kovulmak",
+        "answers": ["İLK GÜNAH", "ADEM", "HAVVA", "YILAN", "ELMA", "ŞEYTAN", "CENNET"]
+    }
+]

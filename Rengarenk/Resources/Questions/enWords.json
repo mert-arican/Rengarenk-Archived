@@ -1,0 +1,1002 @@
+[
+    {
+        "question": "Hear",
+        "answers": ["EAR", "SOUND"]
+    },
+    {
+        "question": "... key",
+        "answers": ["CAR", "DOOR"]
+    },
+    {
+        "question": "... father",
+        "answers": ["STEP", "GRAND", "GOD"]
+    },
+    {
+        "question": "Nomad",
+        "answers": ["TENT", "HUNT", "HORSE"]
+    },
+    {
+        "question": "Wave",
+        "answers": ["OCEAN", "SURF", "TSUNAMI"]
+    },
+    {
+        "question": "Bank",
+        "answers": ["MONEY", "DEBT", "FINANCE"]
+    },
+    {
+        "question": "... ache",
+        "answers": ["HEAD", "BACK", "TOOTH"]
+    },
+    {
+        "question": "Honey ...",
+        "answers": ["BUN", "MOON", "BEE"]
+    },
+    {
+        "question": "Blood",
+        "answers": ["VEIN", "HEART", "RED", "CELL"]
+    },
+    {
+        "question": "Press ...",
+        "answers": ["CONFERENCE", "PASS", "RELEASE"]
+    },
+    {
+        "question": "Color",
+        "answers": ["RED", "GREEN", "BLUE", "YELLOW", "PINK", "ORANGE", "BLACK", "PURPLE"]
+    },
+    {
+        "question": "Shepherd's ...",
+        "answers": ["PURSE", "PIE"]
+    },
+    {
+        "question": "Synonyms for \"beautiful\"",
+        "answers": ["PRETTY", "LOVELY", "CHARMING"]
+    },
+    {
+        "question": "Workplace",
+        "answers": ["OFFICE", "FACTORY", "SHIPYARD"]
+    },
+    {
+        "question": "Exam",
+        "answers": ["CHEAT", "TEST", "GRADE", "TIME"]
+    },
+    {
+        "question": "Search ...",
+        "answers": ["TERM", "ENGINE", "RESULT"]
+    },
+    {
+        "question": "Coffee",
+        "answers": ["CAPPUCCINO", "LATTE", "ESPRESSO"]
+    },
+    {
+        "question": "Things that can be found in an ancient library",
+        "answers": ["SCROLL", "TABLET", "PARCHMENT"]
+    },
+    {
+        "question": "Kidnapping",
+        "answers": ["RANSOM", "HOSTAGE"]
+    },
+    {
+        "question": "Bed",
+        "answers": ["PILLOW", "SLEEP", "SHEET"]
+    },
+    {
+        "question": "Colorful",
+        "answers": ["CHAMELEON", "AURORA", "RAINBOW"]
+    },
+    {
+        "question": "Fast ...",
+        "answers": ["BREAK", "FOOD", "FORWARD"]
+    },
+    {
+        "question": "Traffic ...",
+        "answers": ["LIGHT", "SIGN", "FLOW", "BARRIER"]
+    },
+    {
+        "question": "Swimming",
+        "answers": ["POOL", "SEA", "BIKINI"]
+    },
+    {
+        "question": "Tooth ...",
+        "answers": ["PASTE", "BRUSH", "ACHE", "FAIRY"]
+    },
+    {
+        "question": "Bus ...",
+        "answers": ["PASS", "DRIVER", "STOP", "LANE"]
+    },
+    {
+        "question": "Public transport",
+        "answers": ["METRO", "FERRY", "BUS", "TRAM", "FUNICULAR"]
+    },
+    {
+        "question": "Shepherd",
+        "answers": ["SHEEP", "HERD", "CROOK", "DOG"]
+    },
+    {
+        "question": "Mind ...",
+        "answers": ["BLOWING", "GAME", "SET", "BENDING"]
+    },
+    {
+        "question": "Blue",
+        "answers": ["SKY", "OCEAN", "JEAN", "COLLAR"]
+    },
+    {
+        "question": "Citrus",
+        "answers": ["LEMON", "ORANGE", "GRAPEFRUIT", "LIME"]
+    },
+    {
+        "question": "Family ...",
+        "answers": ["FARM", "TREE", "PLANNING", "COURT", "DOCTOR", "JEWEL", "LAW"]
+    },
+    {
+        "question": "Wish",
+        "answers": ["THREE", "GENIE", "LAMP", "ALADDIN"]
+    },
+    {
+        "question": "Heavy ...",
+        "answers": ["OIL", "WEIGHT", "METAL", "SLEEPER"]
+    },
+    {
+        "question": "Things in refrigerator",
+        "answers": ["BUTTER", "MILK", "EGG", "CHEESE", "YOGURT"]
+    },
+    {
+        "question": "Experiment",
+        "answers": ["LABORATORY", "MICROSCOPE", "HYPOTHESIS"]
+    },
+    {
+        "question": "Gemstone",
+        "answers": ["RUBY", "EMERALD", "DIAMOND", "SAPPHIRE"]
+    },
+    {
+        "question": "Steam",
+        "answers": ["WATER", "GAS", "ENGINE", "LOCOMOTIVE", "INDUSTRIAL REVOLUTION"]
+    },
+    {
+        "question": "Live ...",
+        "answers": ["STREAM", "MODEL", "MUSIC"]
+    },
+    {
+        "question": "... mark",
+        "answers": ["QUESTION", "EXCLAMATION", "QUOTATION", "BIRTH", "TRADE"]
+    },
+    {
+        "question": "Dairy products",
+        "answers": ["CHEESE", "YOGURT", "BUTTER", "CREAM"]
+    },
+    {
+        "question": "... ticket",
+        "answers": ["CONCERT", "BUS", "PARKING", "TRAIN"]
+    },
+    {
+        "question": "Bird species",
+        "answers": ["CROW", "PELICAN", "PARROT", "ROBIN"]
+    },
+    {
+        "question": "Aquatic animals",
+        "answers": ["WHALE", "DOLPHIN", "BATOIDEA", "SHARK"]
+    },
+    {
+        "question": "Moon ...",
+        "answers": ["LIGHT", "SUIT", "WALK", "FACED"]
+    },
+    {
+        "question": "Everyday activities",
+        "answers": ["DRINKING", "EATING", "WALKING"]
+    },
+    {
+        "question": "Place of worship",
+        "answers": ["TEMPLE", "CHURCH", "SYNAGOGUE", "MOSQUE"]
+    },
+    {
+        "question": "Magazine categories",
+        "answers": ["FASHION", "COOKING", "AUTO", "FINANCE"]
+    },
+    {
+        "question": "Back ...",
+        "answers": ["BITE", "BUTTON", "END", "DOOR", "GAMMON", "SEAT", "TRACK", "STAGE"]
+    },
+    {
+        "question": "Polar regions",
+        "answers": ["COLD", "ICEBERG", "PENGUIN", "POLAR BEAR"]
+    },
+    {
+        "question": "Personal care",
+        "answers": ["TOOTHBRUSH", "NAIL CLIPPER", "HAIRBRUSH", "PERFUME"]
+    },
+    {
+        "question": "... tourism",
+        "answers": ["CULTURAL", "MEDICAL", "RELIGIOUS", "FOOD"]
+    },
+    {
+        "question": "Things with pointy ends",
+        "answers": ["BLADE", "NAIL", "SCREW", "NEEDLE"]
+    },
+    {
+        "question": "Meals of the day",
+        "answers": ["BREAKFAST", "LUNCH", "BRUNCH", "DINNER"]
+    },
+    {
+        "question": "Foot ...",
+        "answers": ["STEP", "BALL", "PRINT", "WEAR"]
+    },
+    {
+        "question": "Bank ...",
+        "answers": ["NOTE", "ACCOUNT", "CARD", "ROBBERY"]
+    },
+    {
+        "question": "Egypt",
+        "answers": ["NILE", "PHARAOH", "PYRAMID", "SPHINX", "MUMMY"]
+    },
+    {
+        "question": "Body hair",
+        "answers": ["BEARD", "EYEBROW", "EYELASH", "MUSTACHE"]
+    },
+    {
+        "question": "Light sources",
+        "answers": ["FIRE", "CANDLE", "SUN", "LAMP"]
+    },
+    {
+        "question": "Birthday",
+        "answers": ["PARTY", "GIFT", "AGE", "CAKE"]
+    },
+    {
+        "question": "Winter clothes",
+        "answers": ["BOOT", "SCARF", "SWEATER", "GLOVE"]
+    },
+    {
+        "question": "Politics",
+        "answers": ["PARTY", "PARLIAMENT", "GOVERNMENT", "ELECTION"]
+    },
+    {
+        "question": "Math",
+        "answers": ["NUMBER", "EQUATION", "DIVISION", "ADDITION"]
+    },
+    {
+        "question": "Santa",
+        "answers": ["GIFT", "SACK", "CHRISTMAS", "BEARD", "REINDEER", "SLEIGH", "CHIMNEY", "HO HO HO"]
+    },
+    {
+        "question": "Board game",
+        "answers": ["CHESS", "BACKGAMMON", "GO", "CHECKERS"]
+    },
+    {
+        "question": "African country",
+        "answers": ["TANZANIA", "TUNISIA", "MOROCCO", "EGYPT"]
+    },
+    {
+        "question": "Debt",
+        "answers": ["MONEY", "BANK", "CREDIT CARD"]
+    },
+    {
+        "question": "Things with battery",
+        "answers": ["PHONE", "LAPTOP", "CAMERA", "WATCH"]
+    },
+    {
+        "question": "Cosmetics",
+        "answers": ["EYELINER", "LIPSTICK", "HIGHLIGHTER", "MASCARA"]
+    },
+    {
+        "question": "Business",
+        "answers": ["MEETING", "CEO", "COMPANY", "OFFICE"]
+    },
+    {
+        "question": "Clock",
+        "answers": ["HOUR", "TIME", "TICK", "ALARM"]
+    },
+    {
+        "question": "Climate",
+        "answers": ["WEATHER", "HUMIDITY", "TEMPERATURE", "GLOBAL WARMING"]
+    },
+    {
+        "question": "Fossil",
+        "answers": ["COAL", "OIL", "NATURAL GAS", "EVOLUTION"]
+    },
+    {
+        "question": "... field",
+        "answers": ["BATTLE", "AIR", "ELECTRIC", "MAGNETIC"]
+    },
+    {
+        "question": "... heart",
+        "answers": ["HEAVY", "TENDER", "BRAVE", "OPEN", "COLD"]
+    },
+    {
+        "question": "Bird",
+        "answers": ["EGG", "NEST", "WING", "FEATHER", "BEAK"]
+    },
+    {
+        "question": "Night ...",
+        "answers": ["CLUB", "WEAR", "OWL", "SHIFT", "VISION"]
+    },
+    {
+        "question": "Beverage",
+        "answers": ["TEA", "COFFEE", "LEMONADE", "MILK", "COLA"]
+    },
+    {
+        "question": "Break ...",
+        "answers": ["UP", "DOWN", "DANCE", "OUT", "POINT"]
+    },
+    {
+        "question": "University",
+        "answers": ["CAMPUS", "DEGREE", "FRESHMAN", "ALUMNI", "ACADEMY"]
+    },
+    {
+        "question": "Key ...",
+        "answers": ["CARD", "CHAIN", "MONEY", "WORD", "BOARD"]
+    },
+    {
+        "question": "Restaurant",
+        "answers": ["FOOD", "MENU", "DRINK", "SERVER", "CHEF"]
+    },
+    {
+        "question": "Man ...",
+        "answers": ["MADE", "BUN", "PAGE", "HANDLE", "CRUSH"]
+    },
+    {
+        "question": "Spice",
+        "answers": ["CINNAMON", "GINGER", "NUTMEG", "PEPPER"]
+    },
+    {
+        "question": "Book",
+        "answers": ["WRITER", "READER", "PUBLISHER", "EDITOR", "PAGE"]
+    },
+    {
+        "question": "Things that can melt",
+        "answers": ["SNOW", "CANDY", "BUTTER", "CHOCOLATE", "ICEBERG"]
+    },
+    {
+        "question": "Species of insects",
+        "answers": ["ANT", "BEE", "BUTTERFLY", "COCKROACH", "SPIDER"]
+    },
+    {
+        "question": "Street ...",
+        "answers": ["BALL", "FOOD", "LIGHT", "DANCE", "WEAR", "ART", "DOG", "FASHION"]
+    },
+    {
+        "question": "Computer",
+        "answers": ["SOFTWARE", "HARDWARE", "BIT", "CPU", "GRAPHIC"]
+    },
+    {
+        "question": "Dessert",
+        "answers": ["TIRAMISU", "TART", "PROFITEROLE", "SOUFFLE", "BAKLAVA"]
+    },
+    {
+        "question": "Wedding",
+        "answers": ["RING", "BRIDE", "GROOM", "BRIDESMAID", "BEST MAN"]
+    },
+    {
+        "question": "Cooking oils",
+        "answers": ["CORN", "PALM", "SESAME", "SUNFLOWER", "OLIVE"]
+    },
+    {
+        "question": "Red fruits/vegetables",
+        "answers": ["CHERRY", "STRAWBERRY", "TOMATO", "CRANBERRIES", "BEET"]
+    },
+    {
+        "question": "Mineral",
+        "answers": ["CALCIUM", "MAGNESIUM", "SODIUM", "POTASSIUM", "IODINE"]
+    },
+    {
+        "question": "Golden ...",
+        "answers": ["HOUR", "HORN", "STATE", "RULE", "AGE"]
+    },
+    {
+        "question": "Head ...",
+        "answers": ["LOCK", "SHOT", "QUARTER", "HUNT", "PHONE"]
+    },
+    {
+        "question": "Lawsuit",
+        "answers": ["COURT", "LAWYER", "JURY", "JUDGE", "BAIL"]
+    },
+    {
+        "question": "Types of sports",
+        "answers": ["GYMNASTICS", "POLE VAULT", "WRESTLING", "SNOWBOARDING", "WINDSURFING"]
+    },
+    {
+        "question": "Christian denomination",
+        "answers": ["ORTHODOX", "CATHOLIC", "PROTESTANT", "ANGLICANISM"]
+    },
+    {
+        "question": "Bird species",
+        "answers": ["DOVE", "SPARROW", "WOODPECKER", "HAWK", "OWL"]
+    },
+    {
+        "question": "White fruits/vegetables",
+        "answers": ["GARLIC", "BANANA", "GINGER", "ONION", "CAULIFLOWER"]
+    },
+    {
+        "question": "Kitchen",
+        "answers": ["COOKING", "REFRIGERATOR", "OVEN", "DISH", "PADDLE BOX"]
+    },
+    {
+        "question": "Master ...",
+        "answers": ["CLASS", "PLAN", "MIND", "PIECE", "SWITCH"]
+    },
+    {
+        "question": "Forms of government",
+        "answers": ["MONARCHY", "THEOCRACY", "OLIGARCHY", "ARISTOCRACY", "DEMOCRACY"]
+    },
+    {
+        "question": "Elements of a novel",
+        "answers": ["PLOT", "CHARACTER", "SETTING", "THEME"]
+    },
+    {
+        "question": "Air ...",
+        "answers": ["PORT", "PLANE", "FIELD", "CRAFT", "BORNE"]
+    },
+    {
+        "question": "Architectural style",
+        "answers": ["CLASSIC", "GOTHIC", "BAROQUE", "ROCOCO", "RENAISSANCE"]
+    },
+    {
+        "question": "Made with flour",
+        "answers": ["COOKIE", "PASTA", "PIZZA", "BREAD", "CAKE"]
+    },
+    {
+        "question": "Literature",
+        "answers": ["NOVEL", "POEM", "EPIC", "RHYME", "APOLOGIA"]
+    },
+    {
+        "question": "Visual arts",
+        "answers": ["PAINTING", "SCULPTURE", "CERAMICS", "PHOTOGRAPHY", "CRAFT"]
+    },
+    {
+        "question": "Hobby",
+        "answers": ["GAMING", "TRAVEL", "READING", "BLOGGING", "HIKE"]
+    },
+    {
+        "question": "Cold things",
+        "answers": ["ICE CREAM", "SNOW", "REFRIGERATOR", "ANTARCTICA", "IGLOO"]
+    },
+    {
+        "question": "Front ...",
+        "answers": ["END", "DOOR", "MAN", "LINE", "PAGE"]
+    },
+    {
+        "question": "2",
+        "answers": ["DUO", "TWIN", "DOUBLE", "SECOND", "DUALISM", "SQUARE", "BINARY"]
+    },
+    {
+        "question": "Musical instrument",
+        "answers": ["FLUTE", "VIOLIN", "PIANO", "LYRE", "HARP"]
+    },
+    {
+        "question": "Fast food",
+        "answers": ["HAMBURGER", "PIZZA", "FRENCH FRIES", "SANDWICH", "HOT DOG"]
+    },
+    {
+        "question": "Nose",
+        "answers": ["AIR", "BREATHE", "SMELL", "SNEEZE"]
+    },
+    {
+        "question": "Close ...",
+        "answers": ["CALL", "OUT", "MINDED", "UP", "FRIEND"]
+    },
+    {
+        "question": "Auto racing",
+        "answers": ["PIT STOP", "BURNOUT", "LAP TIME", "RALLY", "FLAG"]
+    },
+    {
+        "question": "Travel",
+        "answers": ["PASSPORT", "ABROAD", "HOTEL", "MUSEUM", "TOUR GUIDE"]
+    },
+    {
+        "question": "Flower",
+        "answers": ["ROSE", "TULIP", "VIOLET", "ORCHID", "LILY"]
+    },
+    {
+        "question": "Curreny",
+        "answers": ["EURO", "POUND", "LIRA", "PESO", "DOLLAR"]
+    },
+    {
+        "question": "Social media",
+        "answers": ["LIKE", "COMMENT", "PRIVACY", "PROFILE", "SHARE"]
+    },
+    {
+        "question": "TV show genre",
+        "answers": ["REALITY", "COMEDY", "DRAMA", "NEWS", "DOCUMENTARY"]
+    },
+    {
+        "question": "Breakfast",
+        "answers": ["BREAD", "CHEESE", "TOAST", "PANCAKE", "CEREAL"]
+    },
+    {
+        "question": "Movie genre",
+        "answers": ["ACTION", "HORROR", "THRILLER", "SCIENCE FICTION", "ROMANCE"]
+    },
+    {
+        "question": "Summer",
+        "answers": ["SUN", "HOT", "SUNGLASSES", "BEACH", "ICE CREAM"]
+    },
+    {
+        "question": "Entrepreneur",
+        "answers": ["FUND", "IDEA", "BUSINESS", "RISK", "PROFIT"]
+    },
+    {
+        "question": "Martial arts",
+        "answers": ["MUAY THAI", "AIKIDO", "JUDO", "KARATE", "TAEKWONDO"]
+    },
+    {
+        "question": "Types of materials",
+        "answers": ["METAL", "PLASTIC", "GLASS", "WOOD", "FABRIC"]
+    },
+    {
+        "question": "Human activities",
+        "answers": ["ART", "SCIENCE", "RELIGION", "WAR"]
+    },
+    {
+        "question": "Jewellery",
+        "answers": ["RING", "EARRING", "NECKLACE", "BRACELET", "CROWN"]
+    },
+    {
+        "question": "Chemical ...",
+        "answers": ["BOND", "ELEMENT", "FORMULA", "REACTION", "ENGINEER"]
+    },
+    {
+        "question": "Clothing",
+        "answers": ["BRA", "JACKET", "SUIT", "SKIRT", "PANTS"]
+    },
+    {
+        "question": "Computer activity",
+        "answers": ["SHOPPING", "GAMING", "CODING"]
+    },
+    {
+        "question": "Epic",
+        "answers": ["ILIAD", "ODYSSEY", "BEOWULF", "DIVINE COMEDY", "SHAHNAMEH"]
+    },
+    {
+        "question": "Geometry",
+        "answers": ["POINT", "LINE", "PLANE", "ANGLE", "CIRCLE", "POLYGON"]
+    },
+    {
+        "question": "Tree species",
+        "answers": ["OAK", "PINE", "ASH", "MAPLE", "ASPEN", "PALM", "OLIVE"]
+    },
+    {
+        "question": "Sky",
+        "answers": ["SUN", "MOON", "STAR", "AIRPLANE", "BLUE"]
+    },
+    {
+        "question": "Landforms",
+        "answers": ["MOUNTAIN", "HILL", "PLATEAU", "PLAIN", "CANYON", "VALLEY"]
+    },
+    {
+        "question": "Boxing",
+        "answers": ["PUNCH", "RING", "ROUND", "WEIGHT", "UPPER CUT", "KNOCKOUT"]
+    },
+    {
+        "question": "Type of shoe",
+        "answers": ["BOOT", "HEELS", "BALLET", "SANDAL", "FLIP FLOP"]
+    },
+    {
+        "question": "Pizza",
+        "answers": ["SLICE", "TOMATO", "MOZZARELLA", "DOUGH", "ITALY"]
+    },
+    {
+        "question": "Things that makes sound",
+        "answers": ["CLAP", "SCREAM", "HORN", "INSTRUMENT", "SPEAKER", "WHISTLE"]
+    },
+    {
+        "question": "Yellow fruits/vegetables",
+        "answers": ["LEMON", "PEPPER", "CORN", "BANANA", "POTATO", "QUINCE"]
+    },
+    {
+        "question": "State ...",
+        "answers": ["HOUSE", "OF THE ART", "SCHOOL", "OF WAR", "WIDE"]
+    },
+    {
+        "question": "Ancient civilizations",
+        "answers": ["SUMER", "BABYLONIA", "ASSYRIA", "HITTITE", "EGYPT", "GREECE", "INCA", "CHINA"]
+    },
+    {
+        "question": "Narrow ...",
+        "answers": ["CAST", "BOAT", "BAND", "MONEY", "MINDED", "ESCAPE"]
+    },
+    {
+        "question": "Airplane",
+        "answers": ["PILOT", "WING", "CABIN CREW", "DELAY", "AIRPORT"]
+    },
+    {
+        "question": "Military ...",
+        "answers": ["HISTORY", "BAND", "ATTACHE", "POWER", "COUP", "SERVICE"]
+    },
+    {
+        "question": "Artwork",
+        "answers": ["OIL PAINTING", "ETCHING", "FRESCO", "MOSAIC", "MINIATURE", "PORTRAIT"]
+    },
+    {
+        "question": "Geometric shapes",
+        "answers": ["SQUARE", "CIRCLE", "ELLIPSE", "TRIANGLE", "RECTANGLE", "OCTAGON"]
+    },
+    {
+        "question": "Writing",
+        "answers": ["ALPHABET", "LETTER", "SYMBOL", "PAPER", "HIEROGLYPH", "PENCIL"]
+    },
+    {
+        "question": "Job",
+        "answers": ["DOCTOR", "ENGINEER", "HISTORIAN", "NURSE", "LAWYER"]
+    },
+    {
+        "question": "Lawsuit",
+        "answers": ["OATH", "WITNESS", "TESTIMONY", "SENTENCE", "EVIDENCE"]
+    },
+    {
+        "question": "Type of video games",
+        "answers": ["RPG", "PUZZLE", "SPORTS", "SIMULATION", "STRATEGY", "WORD"]
+    },
+    {
+        "question": "Cutting tool",
+        "answers": ["AXE", "SAW", "SWORD", "KNIFE", "DAGGER"]
+    },
+    {
+        "question": "Things in the bathroom",
+        "answers": ["MIRROR", "HAND SOAP", "TOWEL", "TOILET", "SINK"]
+    },
+    {
+        "question": "Pointy ...",
+        "answers": ["END", "EAR", "NOSE", "CHIN", "HAT", "JAW"]
+    },
+    {
+        "question": "Basic nutrients",
+        "answers": ["PROTEIN", "CARBOHYDRATE", "FAT", "VITAMIN", "MINERAL", "WATER"]
+    },
+    {
+        "question": "Parts of a computer",
+        "answers": ["CPU", "GPU", "KEYBOARD", "MOUSE", "SCREEN", "MOTHERBOARD"]
+    },
+    {
+        "question": "Type of nuts",
+        "answers": ["HAZELNUT", "PEANUT", "WALNUT", "PISTACHIO", "CASHEW"]
+    },
+    {
+        "question": "Punctuation marks",
+        "answers": ["PERIOD", "COMMA", "SEMICOLON", "COLON", "BRACKET", "ELLIPSIS"]
+    },
+    {
+        "question": "... alphabet",
+        "answers": ["LATIN", "GREEK", "ARABIC", "HEBREW", "CHINESE", "CYRILLIC"]
+    },
+    {
+        "question": "Protein source",
+        "answers": ["EGG", "MILK", "YOGURT", "MEAT", "CHEESE", "ALMOND"]
+    },
+    {
+        "question": "Eye",
+        "answers": ["VISION", "IRIS", "EYELASH", "EYEBROW", "CATARACT", "LENS", "GLASSES"]
+    },
+    {
+        "question": "White ...",
+        "answers": ["LIE", "COLLAR", "HOUSE", "BELT", "BOOK", "MEAT"]
+    },
+    {
+        "question": "Ancient ...",
+        "answers": ["ART", "WORLD", "HISTORY", "CIVILIZATION", "PHILOSOPHY", "NEAR EAST"]
+    },
+    {
+        "question": "Horoscope",
+        "answers": ["SAGITTARIUS", "LEO", "LIBRA", "VIRGO", "ARIES", "CANCER"]
+    },
+    {
+        "question": "Planet",
+        "answers": ["MARS", "JUPITER", "VENUS", "MERCURY", "SATURN", "EARTH"]
+    },
+    {
+        "question": "Invention",
+        "answers": ["WHEEL", "PENICILLIN", "PRINTING PRESS", "STIRRUP", "MICROSCOPE", "COMPUTER"]
+    },
+    {
+        "question": "Theatre",
+        "answers": ["ACTOR", "COSTUME", "HAMLET", "TRAGEDY", "COMEDY", "GREECE"]
+    },
+    {
+        "question": "Natural disaster",
+        "answers": ["EARTHQUAKE", "TSUNAMI", "TORNADO", "DROUGHT", "FLOOD"]
+    },
+    {
+        "question": "Cooking method",
+        "answers": ["BAKING", "FRYING", "ROASTING", "STEAMING", "GRILLING"]
+    },
+    {
+        "question": "Tennis",
+        "answers": ["RACKET", "COURT", "SERVE", "HAWK EYE", "FOREHAND", "ACE"]
+    },
+    {
+        "question": "Disease",
+        "answers": ["DIABETES", "HEPATITIS B", "SMALLPOX", "PLAGUE", "AIDS", "TUBERCULOSIS"]
+    },
+    {
+        "question": "Tourist attractions",
+        "answers": ["TAJ MAHAL", "COLOSSEUM", "EIFFEL TOWER", "HAGIA SOPHIA", "PETRA", "SISTINE CHAPEL"]
+    },
+    {
+        "question": "Ancient weapon",
+        "answers": ["BOW", "SWORD", "SPEAR", "SHIELD", "AXE", "CATAPULT"]
+    },
+    {
+        "question": "Biblical figure",
+        "answers": ["JESUS", "MARY", "JOHN THE BAPTIST", "DAVID", "MOSES", "SOLOMON"]
+    },
+    {
+        "question": "Harem",
+        "answers": ["WOMAN", "SLAVE", "EUNUCH"]
+    },
+    {
+        "question": "Famous rulers",
+        "answers": ["ALEXANDER", "ATTILA", "GENGHIS KHAN", "CAESAR", "TIMUR", "NERO"]
+    },
+    {
+        "question": "Animals with patterns",
+        "answers": ["ZEBRA", "GIRAFFE", "MOTH", "PEACOCK", "SNAKE", "COW"]
+    },
+    {
+        "question": "Big cats",
+        "answers": ["TIGER", "LION", "JAGUAR", "LEOPARD", "CHEETAH", "COUGAR"]
+    },
+    {
+        "question": "Dinner table",
+        "answers": ["SPOON", "PLATE", "KNIFE", "GLASS"]
+    },
+    {
+        "question": "European countries",
+        "answers": ["ITALY", "FRANCE", "GERMANY", "NORWAY", "DENMARK", "SPAIN", "NETHERLANDS"]
+    },
+    {
+        "question": "Ancient Egyptian deities",
+        "answers": ["RA", "ISIS", "OSIRIS", "ANUBIS", "HORUS"]
+    },
+    {
+        "question": "Anti ...",
+        "answers": ["GEN", "BIOTIC" , "THESIS", "TOXIN", "VIRUS", "SEMITIC", "PATHY"]
+    },
+    {
+        "question": "Similar words for \"phase\"",
+        "answers": ["STAGE", "CHAPTER", "EPISODE", "PERIOD", "LEVEL", "ERA", "AGE"]
+    },
+    {
+        "question": "Types of sports",
+        "answers": ["BASEBALL", "POLO", "GOLF", "HOCKEY", "ARCHERY", "CYCLING", "LONG JUMP"]
+    },
+    {
+        "question": "Green fruits/vegetables",
+        "answers": ["BROCCOLI", "LIME", "PEAR", "GRAPE", "CUCUMBER", "APPLE"]
+    },
+    {
+        "question": "Renaissance thinkers",
+        "answers": ["ERASMUS", "BRUNO", "MACHIAVELLI", "COPERNICUS", "GALILEO", "KEPLER"]
+    },
+    {
+        "question": "Orange fruits/vegetables",
+        "answers": ["PUMPKIN", "CARROT", "TANGERINE", "APRICOT", "ORANGE", "WATERMELON"]
+    },
+    {
+        "question": "Lives (can be found) in the forest",
+        "answers": ["BEAR", "MUSHROOM", "PIG", "FOX", "SNAKE", "SQUIRREL", "JACKAL"]
+    },
+    {
+        "question": "Mother ...",
+        "answers": ["IN LAW", "FIGURE", "NATURE", "DOUGH", "OF GOD", "TONGUE", "BOARD"]
+    },
+    {
+        "question": "Seven ...",
+        "answers": ["FOLD", "TEEN", "SAGES", "SLEEPERS", "WONDERS OF THE EARTH", "DEADLY SINS", "YEARS WAR"]
+    },
+    {
+        "question": "Purple fruits/vegetables",
+        "answers": ["BLACKBERRY", "FIG", "GRAPE", "PLUM", "LAVENDER", "EGGPLANT", "JUDAS TREE"]
+    },
+    {
+        "question": "Hot ...",
+        "answers": ["KEY", "LINE", "PEPPER", "SAUCE", "DOG", "SPOT", "TUB", "SEAT"]
+    },
+    {
+        "question": "Church",
+        "answers": ["POPE", "PETER", "DOGMA", "EXCOMMUNICATION", "INQUISITION", "RENAISSANCE"]
+    },
+    {
+        "question": "Economy",
+        "answers": ["MONEY", "INVESTMENT", "PROFIT", "COST", "UNEMPLOYMENT", "SUPPLY AND DEMAND"]
+    },
+    {
+        "question": "Nicknames of rulers",
+        "answers": ["GREAT", "BONELESS", "BLOODY", "MAD", "BALD", "TERRIBLE", "MAGNIFICENT"]
+    },
+    {
+        "question": "... Empire",
+        "answers": ["BRITISH", "MONGOL", "MUGHAL", "BYZANTINE", "TIMURID", "HOLY ROMAN", "OTTOMAN"]
+    },
+    {
+        "question": "Religion",
+        "answers": ["PAGANISM", "JUDAISM", "CHRISTIANITY", "ISLAM", "BUDDHISM", "HINDUISM", "ZOROASTRIANISM"]
+    },
+    {
+        "question": "Part of a car",
+        "answers": ["TIRE", "MIRROR", "DOOR", "SEAT", "ROOF", "HOOD", "ENGINE"]
+    },
+    {
+        "question": "Human organ",
+        "answers": ["BRAIN", "STOMACH", "LIVER", "KIDNEY", "LUNG", "PANCREAS", "HEART"]
+    },
+    {
+        "question": "Things to wear",
+        "answers": ["MASCARA", "JEAN", "BLOUSE", "BIKINI", "NECKLACE"]
+    },
+    {
+        "question": "Reading materials",
+        "answers": ["MAGAZINE", "COMIC", "NEWSPAPER", "ENCYCLOPEDIA", "DICTIONARY", "ATLAS"]
+    },
+    {
+        "question": "Cold ...",
+        "answers": ["CALL", "HEART", "LIGHT", "FUSION", "WAR", "WAVE", "BLOODED"]
+    },
+    {
+        "question": "Type of food",
+        "answers": ["VEGETABLE", "NUT", "FRUIT", "SEAFOOD", "MEAT", "GRAIN", "BEAN"]
+    },
+    {
+        "question": "Biblical figure",
+        "answers": ["ADAM", "JACOB", "ABRAHAM", "ISAAC", "JOSEPH", "NOAH"]
+    },
+    {
+        "question": "Country",
+        "answers": ["CHINA", "LEBANON", "JAPAN", "GEORGIA", "ICELAND", "NEW ZEALAND", "TURKEY"]
+    },
+    {
+        "question": "Underground",
+        "answers": ["TUNNEL", "METRO", "WORM", "PIPE", "FOSSIL", "RUINS"]
+    },
+    {
+        "question": "Capital",
+        "answers": ["ATHENS", "BERLIN", "ANKARA", "ROMA", "PARIS", "TOKYO", "LONDON"]
+    },
+    {
+        "question": "Traitor!",
+        "answers": ["BRUTUS", "JUDAS ISCARIOT"]
+    },
+    {
+        "question": "Family",
+        "answers": ["HUSBAND", "WIFE", "MOM", "DAD", "SISTER", "COUSIN", "NEPHEW"]
+    },
+    {
+        "question": "Camping",
+        "answers": ["TENT", "FIRE", "AXE", "WOOD", "ROPE", "RAINCOAT"]
+    },
+    {
+        "question": "Vehicle",
+        "answers": ["CAR", "BUS", "BICYCLE", "MOTORCYCLE", "TRAIN", "SCOOTER"]
+    },
+    {
+        "question": "Greek mythological figures",
+        "answers": ["ATHENA", "ZEUS", "ARTEMIS", "APOLLO", "APHRODITE", "HERA", "THEMIS"]
+    },
+    {
+        "question": "Fantastic creatures",
+        "answers": ["WITCH", "VAMPIRE", "UNICORN", "DRAGON", "GIANT", "ELF", "GOBLIN"]
+    },
+    {
+        "question": "Climate types",
+        "answers": ["DESERT", "TROPICAL", "STEPPE", "MEDITERRANEAN", "ICE CAP"]
+    },
+    {
+        "question": "Course subjects",
+        "answers": ["ARCHITECTURE", "PHYSICS", "MEDICINE", "HUMANITIES", "ENGINEERING", "COMPUTER SCIENCE"]
+    },
+    {
+        "question": "Scientist",
+        "answers": ["NEWTON", "PASTEUR", "DARWIN", "TESLA", "EINSTEIN", "HAWKING", "MARIE CURIE"]
+    },
+    {
+        "question": "Lives in the ocean",
+        "answers": ["SPONGE", "SEAHORSE", "MUSSEL", "CRAB", "LOBSTER", "OCTOPUS"]
+    },
+    {
+        "question": "Famous woman",
+        "answers": ["EVE", "MARIA", "CLEOPATRA", "HYPATIA", "THEODORA", "MARILYN MONROE"]
+    },
+    {
+        "question": "Animals that live in Africa",
+        "answers": ["LEMUR", "LION", "ZEBRA", "CHEETAH", "GIRAFFE", "GORILLA", "HIPPOPOTAMUS", "ELEPHANT"]
+    },
+    {
+        "question": "Cross ...",
+        "answers": ["WORD", "WALK", "EYED", "FIRE", "OVER", "BOW", "BAR", "EXAMINE"]
+    },
+    {
+        "question": "Stock market",
+        "answers": ["RISK", "PRICE", "BROKER", "OFFER", "PORTFOLIO", "BEAR MARKET"]
+    },
+    {
+        "question": "Basketball",
+        "answers": ["GUARD", "DUNK", "PIVOT", "REBOUND", "BLOCK", "BENCH", "AIR BALL"]
+    },
+    {
+        "question": "Eye ...",
+        "answers": ["CANDY", "CONTACT", "SIGHT", "LINER", "BALL", "DROPS", "WEAR"]
+    },
+    {
+        "question": "Open ...",
+        "answers": ["ACCESS", "BOOK", "END", "DOOR", "CITY", "HOUSE", "MARRIAGE", "MINDED"]
+    },
+    {
+        "question": "Famous rulers",
+        "answers": ["CLEOPATRA", "CONSTANTINE", "RAMESSES", "GILGAMESH", "VICTORIA"]
+    },
+    {
+        "question": "Sun ...",
+        "answers": ["ROOF", "STROKE", "BATH", "BURN", "DRIED", "LIGHT", "GLASS", "FLOWER"]
+    },
+    {
+        "question": "20th century political leaders",
+        "answers": ["LENIN", "STALIN", "HITLER", "GANDHI", "MUSSOLINI", "CHURCHILL", "MANDELA", "ATATÜRK"]
+    },
+    {
+        "question": "Christianity",
+        "answers": ["MARY", "CHURCH", "JESUS", "CROSS", "TRINITY", "APOSTLES", "BAPTISM", "HOLY SPIRIT"]
+    },
+    {
+        "question": "Ship",
+        "answers": ["CAPTAN", "VOYAGE", "CREW", "DECK", "RUDDER", "PORT", "MANOEUVRE", "NAVY"]
+    },
+    {
+        "question": "Words that starts with \"z\"",
+        "answers": ["ZOO", "ZEPPELIN", "ZOMBIE", "ZIGZAG", "ZONE", "ZEBRA", "ZIPPER", "ZERO"]
+    },
+    {
+        "question": "Ruler",
+        "answers": ["KING", "KHAN", "DUKE", "TSAR", "EMPEROR", "QUEEN", "KAISER", "SULTAN"]
+    },
+    {
+        "question": "Emotions",
+        "answers": ["JOY", "EXCITEMENT", "ANGER", "FEAR", "SADNESS", "GUILT", "SHAME", "DISGUST"]
+    },
+    {
+        "question": "Human activities",
+        "answers": ["PHILOSOPHY", "POLITICS", "EDUCATION", "AGRICULTURE"]
+    },
+    {
+        "question": "City",
+        "answers": ["ROMA", "JERUSALEM", "ATHENS", "PARIS", "LONDON", "CAIRO", "ISTANBUL", "FLORENCE"]
+    },
+    {
+        "question": "Space",
+        "answers": ["PLANET", "STAR", "ORBIT", "SUPERNOVA", "GALAXY", "SUN", "BLACK HOLE", "ASTRONAUT"]
+    },
+    {
+        "question": "Hot things",
+        "answers": ["TEAPOT", "CANDLE", "SUN", "FIRE", "OVEN", "VOLCANO", "LAVA", "MAGMA"]
+    },
+    {
+        "question": "Electricity",
+        "answers": ["ENERGY", "VOLTAGE", "SWITCH", "CIRCUIT", "BATTERY"]
+    },
+    {
+        "question": "Atom",
+        "answers": ["PROTON", "ELECTRON", "NEUTRON", "QUARK", "ION", "MATTER", "DEMOCRITUS"]
+    },
+    {
+        "question": "Biology",
+        "answers": ["GENE", "DNA", "RNA", "MITOSIS", "CELL", "MUTATION", "PATHOGEN"]
+    },
+    {
+        "question": "Brain ...",
+        "answers": ["CELL", "STORM", "POWER", "DEATH", "DAMAGE", "WASH", "WAVE"]
+    },
+    {
+        "question": "Ice ...",
+        "answers": ["AGE", "BLUE", "BREAKER", "CREAM", "CUBE", "SKATE", "BERG", "TEA"]
+    },
+    {
+        "question": "Famous Greek figures",
+        "answers": ["ALEXANDER", "ARCHIMEDES", "SOCRATES", "EL GRECO", "PLATO", "ARISTOTLE", "HIPPOCRATES", "HOMER"]
+    },
+    {
+        "question": "3",
+        "answers": ["TRIANGLE", "TRILOGY", "TRINITY"]
+    },
+    {
+        "question": "Renaissance artists",
+        "answers": ["LEONARDO DA VINCI", "DONATELLO", "RAPHAEL", "TINTORETTO", "JAN VAN EYCK", "MICHELANGELO"]
+    },
+    {
+        "question": "Exile",
+        "answers": ["FALL OF MAN", "ADAM", "EVE", "SERPENT", "APPLE", "DEVIL", "EDEN"]
+    }
+]
