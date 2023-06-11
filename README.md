@@ -9,6 +9,14 @@ code or add new features to the app so I removed it from sale.
 Now I can publish the code publicly to show it as proof that I can
 create complex programs using UIKit.
 
+Game Description
+
+Every level contains couple of words related with description.
+Letters that make up the words are color coded and spreaded all over the screen.
+You have the finds words using letters that have same color.
+If you go to settings and turn on the flying mode, than letters start colliding with each other
+using dynamic animator which add extra difficulty and movement to the game.
+
 <img src="https://github.com/mert-arican/Rengarenk-Archived/blob/main/Rengarenk/Previews/2048x2732bb-3.png" width = "40%" height= "40%">
 <img src="https://github.com/mert-arican/Rengarenk-Archived/blob/main/Rengarenk/Previews/2048x2732bb-2.png" width = "40%" height= "40%">
 <img src="https://github.com/mert-arican/Rengarenk-Archived/blob/main/Rengarenk/Previews/2048x2732bb-4.png" width = "40%" height= "40%">
