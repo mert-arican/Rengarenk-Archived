@@ -10,3 +10,9 @@ Now I can publish the code publicly to show it as proof that I can
 create complex programs using UIKit.
 
 <img src="https://github.com/mert-arican/Rengarenk-Archived/blob/main/Rengarenk/Previews/2048x2732bb-3.png" width = "40%" height= "40%">
+<img src="https://github.com/mert-arican/Rengarenk-Archived/blob/main/Rengarenk/Previews/2048x2732bb-2.png" width = "40%" height= "40%">
+<img src="https://github.com/mert-arican/Rengarenk-Archived/blob/main/Rengarenk/Previews/2048x2732bb-4.png" width = "40%" height= "40%">
+<img src="https://github.com/mert-arican/Rengarenk-Archived/blob/main/Rengarenk/Previews/2048x2732bb-5.png" width = "40%" height= "40%">
+<img src="https://github.com/mert-arican/Rengarenk-Archived/blob/main/Rengarenk/Previews/2048x2732bb.png" width = "40%" height= "40%">
+<img src="https://github.com/mert-arican/Rengarenk-Archived/blob/main/Rengarenk/Previews/2048x2732bb-6.png" width = "40%" height= "40%">
+<img src="https://github.com/mert-arican/Rengarenk-Archived/blob/main/Rengarenk/Previews/2048x2732bb-7.png" width = "40%" height= "40%">
