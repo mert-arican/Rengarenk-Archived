@@ -11,12 +11,12 @@ create complex programs using UIKit.
 
 Game Description
 
-Every level contains couple of words related with description.
-Letters that make up the words are color coded and spreaded all over the screen.
+Every level contains couple of words related with description on top.
+Letters that form the words are color coded and spreaded all over the screen.
 You have the finds words using letters that have same color.
-You can boht tap on the letters and swipe over them.
+You can either tap on the letters and swipe over them to form the words.
 If you go to settings and turn on the flying mode, than letters start moving and colliding 
-with each other using dynamic animator which add extra difficulty and movement to the game.
+with each other using dynamic animator which adds extra difficulty and movement to the game.
 
 <img src="https://github.com/mert-arican/Rengarenk-Archived/blob/main/Rengarenk/Previews/2048x2732bb-3.png" width = "40%" height= "40%">
 <img src="https://github.com/mert-arican/Rengarenk-Archived/blob/main/Rengarenk/Previews/2048x2732bb-2.png" width = "40%" height= "40%">
